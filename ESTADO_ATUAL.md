@@ -1,43 +1,53 @@
-# Estado atual — ponto exato de retomada
+# Estado atual — Rain / DanMachi
 
-**Universo:** DanMachi, continuidade alternativa de Rain em Orario.
+**Atualizado em 13/11/2026.** Esta é a fonte primária do ponto de retomada; substitui integralmente o antigo quadro da Monsterphilia.
 
-## Cena em andamento
+## Ponto exato de retomada
 
-**Dia da Monsterphilia, aproximadamente 17h34, rua próxima ao Coliseu de Orario.** A operação de contenção de monstros fugitivos foi encerrada. Rain (humano, 18 anos, **nível 2**) ficou conhecido informalmente como **戦犬 / Senken**, “Cão de Guerra” (“War Dog”), pela ferocidade ao caçar **12 monstros** durante o incidente; ainda **não é epíteto oficial de Denatus**.
+**Manhã seguinte ao retorno embriagado de Rain; antiga igreja da Familia Hestia, logo após o café da manhã (~7h42).** Rain, **humano de 18 anos, nível 3**, estava de ressaca depois de ter bebido na Senhora da Fertilidade e vencido Hermes em um jogo de charadas. Ele comeu o café, mas **não tocou no chá preparado por Lili**. Bell pediu para acolher Liliruca Arde em casa e dar-lhe uma segunda chance. Rain respondeu, levantou-se e decidiu sair para caminhar:
 
-Rain está em **frenesi de combate** e acabou de gritar: **“CADÊ O PRÓXIMO?! QUE VENHAM MAIS!!!”**. Pensamento explícito escolhido pelo usuário: **“Devorar... é uma habilidade maravilhosa...”**
+> "Você é muito inocente, Bell-kun. Óbvio que quem perdeu tudo vai se arrepender."
+>
+> "Você é o membro mais antigo, então vou respeitar sua decisão."
+>
+> "Mas nunca mais em minha vida confiarei minhas costas a ela."
+>
+> "Hestia-sama. Vou caminhar."
 
-**Bete Loga** chegou com **Tiona e Tione** da Familia Loki, reconheceu Rain e o provocou: **“Já terminou de brincar de cão raivoso, Senken?”**. **Este é o último diálogo de NPC. Rain ainda não respondeu, não iniciou novo golpe e não aceitou confronto**. A narradora não deve fazê-lo falar, agir, pensar ou escolher por ele. Bete sabe que perdeu a antiga competição de primeiro toque no rosto; **não sabe que Rain copiou Solmani**. Tiona está animada, Tione observa com cautela. Não há monstros visíveis restantes nessa rua.
+**Rain partiu para caminhar. Não escolher seu destino, falas, movimentos ou próximos atos.** Hestia e Bell ficaram na igreja com Lili. Hestia ressaltou: Bell pode perdoar Lili pelo dano a ele, mas não por Rain. **Lili não ingressou oficialmente na Familia Hestia**; ela foi expulsa da Familia Soma, está sem moradia e precisa resolver transferência de Falna. Bell quer acolhê-la; Hestia considera, condiciona à responsabilidade e não força Rain a confiar. Rain aceita respeitar a escolha de Bell, mas **declara que nunca mais confiará suas costas a Lili**. O conflito não está resolvido.
 
-## O que ocorreu após o primeiro encontro (síntese)
+## Falna, dons e segredo
 
-1. Rain e Hestia tiveram um encontro espontâneo: confeitaria Flor de Mel, bolo de morango, chocolate quente, beijo de carinho, encontro com Loki na fonte, compra de cama de casal em oficina e passeio ao jardim antigo onde Hestia costumava ficar sozinha.
-2. **Cama de casal comprada por 23.000 valis** (preço inicial 26.500); Rain deu saco de 30.000 e recebeu 7.000 de troco. A entrega/montagem foi posteriormente narrada como **concluída na igreja**. O vestido de Hestia ficou reservado para um segundo encontro formal.
-3. Hestia e Rain reafirmaram atração romântica e carinho; Hestia preserva seus limites, castidade e autonomia. Rain disse que veio de um mundo tecnologicamente mais avançado, onde uma deusa o matou por engano e o trouxe a Orario como compensação. Disse que já admirava Hestia antes de conhecê-la e a escolheria; quando ela perguntou se sentia saudade do mundo anterior, respondeu: **“Não. Minha família... está aqui.”** Hestia se emocionou.
-4. Dias depois Rain acompanhou Bell na Dungeon; Bell ganhou confiança, precisão e capacidade de pensar ofensivamente.
-5. Durante a **Monsterphilia**, Rain enfrentou um Silverback desarmado para proteger Bell, Hestia e civis: usou Impulso Anfíbio + Solmani após desviar, deu joelhada no rosto; depois atacou vulnerabilidade anatômica do monstro e finalizou com saraivada de socos, assimilando **Musculatura de Prata**.
-6. Diante da multidão, Rain uivou e declarou: **“SOU RAIN DA FAMILIA HESTIA! HOJE NOSSA FAMILIA SALVOU AS SUAS VIDAS!”**. Recebeu aplausos; Hestia se encheu de orgulho. O apelido **War Dog / Senken** se espalhou.
-7. Com Bell evacuando Hestia, Rain ajudou a Familia Ganesha. Destruiu a cabeça de um Orc com um soco usando todos os buffs de velocidade, assimilando **Ossatura de Guerra**. Caçou outros monstros ferozmente; adquiriu **Carapaça Subdérmica** (Killer Ant), melhorias de Passo Sombrio (War Shadow), Ossatura de Guerra (Orc), Olfato Aguçado (Kobold) e Reflexos Predatórios (Goblin). Total narrado para operação: **12 monstros** abatidos por Rain, incluindo Silverback.
-8. **Ao mesmo tempo, longe de Rain e sem que ele saiba**, Bell se colocou entre Hestia/civis e um **Minotauro**, recebeu a **Hestia Knife** de Hestia durante o combate, venceu sozinho, sofreu ferimentos e teve a Falna atualizada por Hestia para **nível 2** em abrigo da Guilda. Bell quer contar a Rain pessoalmente. Rain **ainda NÃO sabe** da vitória, da Hestia Knife nem da ascensão de Bell, exceto se perceber futuramente.
-9. Freya e Loki viram parte da atuação de Rain; Freya percebe a intensidade incomum de sua alma, **sem saber a origem das passivas, copiar habilidades ou ler pensamentos**. Loki sabe da rivalidade de Bete, não da cópia. Guilda e Familia Ganesha tomaram conhecimento de seus feitos.
+- **Rain: nível 3**, promovido pela própria Hestia depois do confronto de três horas sozinho com uma horda na Dungeon (andar 8), feito extraordinário e muita Excelia. Sem valores numéricos atuais confirmados; no nível novo, parâmetros visíveis iniciam em I0, com níveis anteriores incorporados.
+- **Bell: nível 2**, após derrotar sozinho um Minotauro na Monsterphilia, recebeu Hestia Knife de Hestia; a faca foi roubada por Lili e depois recuperada por Rain, **devolvida ao cinto de Bell**.
+- **Devorar:** por monstro derrotado, assimilação permanente específica; contra pessoa/divindade, "Vamos jogar?" + aceite + regra clara + vitória. Não copia Arcanum. **Última cópia: Astúcia do Trapaceiro, de Hermes, após vencer a segunda rodada de charadas**, em que Rain respondeu "um buraco" e Hermes errou "esperança" na charada cuja resposta era "amor". Primeiro jogo: empate ("mapa" / "lágrima"). Hermes não sabe de Devorar.
+- **Twin Monster ~10× de evolução/adaptação/aprendizado: SEMPRE ATIVO**; não multiplica dano instantaneamente. **Blessed by All Gods: SEMPRE ATIVO**, sorte/favor sem invulnerabilidade. **Liaris Freese** copiada de Bell opera por determinação e emoções, e acumula-se com o Twin Monster.
+- Cópias anteriores: **Chama do Lar** (Hestia), **Solmani** (Bete, que NÃO sabe), **Vigor físico** (Gardo). Monstros: Reflexos Predatórios, Recuperação Instintiva, Olfato Aguçado, Impulso Anfíbio, Passo Sombrio, Musculatura de Prata, Ossatura de Guerra, Carapaça Subdérmica, **Resistência Tóxica** (Purple Moth), com aprimoramentos permanentes. Ler [PODERES.md](canon/PODERES.md).
 
-## Mecânicas essenciais que não podem ser esquecidas
+## Acontecimentos recentes (ordem)
 
-- **Twin Monster: crescimento ~10× ATIVO CONSTANTEMENTE**, não somente em combates. Ele se aplica a aprendizado, adaptação, progressão e Excelia pertinentes. Não significa 10× força instantânea.
-- **Blessed by All Gods: bênção de sorte/favor divino ATIVA CONSTANTEMENTE**, com efeito significativo, sem imunidade a perigos.
-- **Devorar: aquisição permanente e específica por monstro derrotado** (passiva, habilidade, atributo ou aprimoramento), sem recompensas vagas; todas as adquiridas listadas em [PODERES.md](canon/PODERES.md).
-- **Liaris Freese copiada de Bell:** Rain a possui e ela funciona de acordo com sentimentos e determinação, coexistindo com Twin Monster. Bell conserva a original e não sabe que a tem.
-- **Chama do Lar copiada de Hestia:** passiva permanente de resiliência ao defender os seus e recuperação em repouso seguro.
-- **Solmani copiada de Bete:** faz força e velocidade escalarem com aceleração; Bete **NÃO SABE** da cópia.
-- **Sigilo:** NPCs conhecem apenas o que lhes foi dito ou mostrado; observar efeitos não revela a causa. Hestia conhece Devorar, não todos seus detalhes automaticamente.
-- **Falna:** Rain já é nível 2; atributos visíveis do novo nível iniciaram em I0 e **não foram atualizados numericamente em cena depois de Monsterphilia**. Evolução contínua e ganhos de Devorar não promovem nível automaticamente. Bell também é nível 2 agora.
-- Rain controla exclusivamente suas ações, movimentos e palavras através do **usuário**; a narradora deve oferecer espaço de decisão a cada turno, não resolver por ele.
+1. Monsterphilia: Rain salvou civis, matou 12 monstros, obteve alcunha **Senken / 戦犬 ("Cão de Guerra")**; Bell derrotou Minotauro, ganhou Hestia Knife e ascendeu a nível 2. Rain posteriormente soube.
+2. Rain cobrou da Familia Ganesha **500.000 valis de indenização** por negligência na Monsterphilia. A Guilda tratou repercussões. O pagamento foi estabelecido.
+3. Rain e Bell contrataram **Liliruca Arde**, suporte Pallum da Familia Soma, com divisão 40% para ela e 60% para os dois (possibilidade futura de 50/50 por desempenho). Rain a protegeu de seus antigos colegas e a tratou como irmãzinha.
+4. Na Dungeon, andares 7–8, Rain derrotou Orcs e Purple Moths; obteve/melhorou ossatura e resistência a venenos. **Lili instalou isca para atrair monstros**, resultando em horda descomunal. Rain mandou Bell fugir com Lili para preservar os dois e **lutou sozinho por aproximadamente três horas**, saindo vivo, ferido e cercado por um mar de cristais. Ais, Tiona, Tione e Bete o encontraram; resgate/apoio pela Familia Loki. Cristais avaliados em **3.000.000 valis**. Na ausência de Rain, **Lili roubou a Hestia Knife** de Bell e fugiu.
+5. Hestia atualizou a Falna de Rain, efetivando **nível 2 → 3**. Rain invadiu violentamente a sede da Familia Soma, recuperou a faca, confrontou Zanis Lustra, que perdeu um braço num golpe de Rain; Soma compareceu. Lili confessou a armadilha e o roubo. **Rain tentou atacar Lili; Bell se colocou no caminho; Rain reconheceu Bell e PAROU o punho a centímetros de tocá-lo. Bell NÃO foi atingido.** Hestia interveio e Rain obedeceu, embora contrariado. Rain devolveu a faca a Bell e reforçou: "Meus punhos jamais irão te atingir com violência".
+6. Hestia castigou Rain após o episódio; alguns galos na cabeça foram narrados. Guilda e Soma começaram a tratar da corrupção da Familia; Zanis sob cuidados. O **Denatus** futuro ainda não ocorreu; apelido **Senken é popular, NÃO oficial**. Rain deseja que seu epíteto seja "Cão de Guerra" e apresentou ainda o título japonês de flagelo dos inimigos de Hestia-sama.
+7. Familia Hestia decidiu estudar a **reconstrução da igreja como templo inspirado em arquitetura grega**, com o nome solene **家庭と炉火と家族の女神ヘスティアの神殿** (*Katei to roba to kazoku no megami Hestia no shinden*, "Templo de Hestia, Deusa do Lar, do Fogo e da Família"). Deseja preservar a antiga lareira. **Nada foi demolido, contratado ou construído ainda**. Bell e Hestia estudam esboços e custos.
+8. **Lili expulsa da Familia Soma** depois da investigação; sem casa e sem dinheiro, precisa transferência de Falna. Hestia ofereceu comida, apesar da oposição de Rain, e a deixou temporariamente na igreja; Bell deseja acolhê-la. Rain ficou ressentido por ter confiado a própria vida e a de Bell nela.
+9. Rain encontrou **Ais e Tiona**; incentivou Ais a convidar Bell para almoçar e brincou com a possibilidade de beijos. Ais demonstrou curiosidade e interesse; **não houve convite feito a Bell nem encontro marcado**.
+10. Rain entrou na **taverna Senhora da Fertilidade**, conheceu **Ryuu Lion**, Syr, Anya e Mia. Pediu a bebida mais alcoólica, ficou tonto, conversou seriamente com Ryuu sobre a traição de Lili e sua ambição, quebrou uma caneca, desculpou-se, **pagou conta, caneca e gorjetas generosas**, e saiu.
+11. Encontrou **Hermes e Asfi**, discutiu caduceu e medicina. Desafiou Hermes para jogo consentido de charadas: empate na rodada 1; vitória clara na rodada 2 após Hermes responder "esperança" em vez de "amor". **Devorar assimilou Astúcia do Trapaceiro**. Hermes e Asfi o acompanharam à igreja.
+12. Rain pediu colo a Hestia, dormiu abraçado a ela até a manhã seguinte; confessou sentir raiva de Lili e de si próprio por confiar depressa e temer ter perdido Bell. Hestia recusou forçar perdão, mas defendeu alimentar quem tem fome. Ao amanhecer Rain estava de ressaca; no café, Bell propôs acolher Lili; Rain discordou, embora respeitasse a decisão de Bell, e saiu para caminhar.
 
-## Pontas narrativas abertas
+## Conhecimento dos personagens e pendências
 
-- Resposta de Rain à provocação de Bete. Não assumir combate, revanche ou jogo.
-- Rain ainda precisa saber por Bell sobre Minotauro, Hestia Knife e nível 2.
-- Reação da Guilda e de outras Familias à ascensão dos dois novatos e ao surgimento do “Senken”.
-- Atualização posterior de Falna de Rain para verificar Excelia acumulada, sem inventar valor agora.
-- Segundo encontro formal com Hestia, construção do lar e ambição de Rain de ser “o mais forte sobre os céus”.
+- **Hestia:** sabe da raiva, culpa e dor de Rain e de sua escapada com bebida; conhece Devorar em termos gerais, **não** cada cópia secreta de Hermes ou Bete automaticamente. Ela é quem decide acolhimento na Familia e atualização de Falna.
+- **Bell:** ama Rain como irmão, nível 2, com Hestia Knife de volta. Acha que Lili realmente se arrependeu; não conhece sua própria Liaris Freese nem a cópia em Rain. Lembra que Rain parou o golpe antes de atingi-lo.
+- **Lili:** expulsão da Soma, remorso expresso, ainda desconfiada e sem confiança reconquistada. Mora **provisoriamente** na igreja após dormir na sala; não passou pela transferência de Falna; não transformar seu arrependimento em vínculo incondicional instantâneo.
+- **Hermes:** sabe que perdeu o jogo e levou Rain embriagado para casa; **não sabe que perdeu uma habilidade para Devorar**.
+- **Ais:** considera convidar Bell para almoçar, mas não agiu ainda.
+- **Denatus:** futura reunião dos deuses, epítetos ainda não votados. Hestia comparecerá; Rain e Bell não participam.
+- **Moradia:** projeto do templo é proposta, não obra iniciada. Recursos: cerca de três milhões em cristais avaliados + 500 mil de indenização; **não afirmar saldo líquido exato**.
+- **Cena seguinte:** Rain decidiu caminhar para fora da igreja. Só o usuário define onde vai e o que faz.
+
+**Regras:** Rain é controlado exclusivamente pelo usuário, inclusive falas e pensamentos; a narradora controla os outros e o mundo. Reproduzir integralmente as falas e ações do usuário, sem acrescentar decisões ao protagonista. Evitar sermões repetitivos e progressão artificial. Detalhes em [REGRAS_DE_NARRACAO.md](REGRAS_DE_NARRACAO.md).
