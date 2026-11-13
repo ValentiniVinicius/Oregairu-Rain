@@ -37,3 +37,22 @@ Ao criar novo câmbio, especificar quantidade conhecida de pedras e aplicar valo
 ## Monsterphilia
 
 Durante o incidente, o relato fechou **12 monstros abatidos por Rain**, entre eles o Silverback, além do Minotauro derrotado por Bell. **Não houve pagamento por pedras mágicas ou recompensa financeira da operação estabelecido na narrativa**. Não inventar pagamento, multas, cobrança por destruição de calçamento ou novos saldos sem cena correspondente.
+
+## Atualização de recursos, custos e imóvel — pós-Monsterphilia (13/11/2026)
+
+### Novos valores estabelecidos
+- **Indenização da Familia Ganesha: 500.000 valis**, negociada por Rain em decorrência da falta de segurança na Monsterphilia; narrada como obtida, inicialmente escondida sob árvore perto da igreja e depois guardada. **Não é remuneração por pedras de Monsterphilia**.
+- **Cristais mágicos da horda do oitavo andar: aproximadamente 3.000.000 valis** na avaliação da Guilda. Rain derrotou uma quantidade enorme de monstros durante cerca de três horas. Como a narrativa em seguida trata esse montante como recurso dos aventureiros, ele entra no planejamento da moradia; porém **não foi estabelecido um extrato bancário exato nem saldo após todos os gastos**.
+- **Total bruto mencionado para esses dois eventos: cerca de 3.500.000 valis**, antes de custos e outros movimentos. Não transformar isso em saldo líquido ou valor comprovado em caixa.
+- **Taverna Senhora da Fertilidade:** Rain pagou bebidas/conta, uma caneca quebrada e **gorjetas generosas às funcionárias que o atenderam**. Valores não informados; **não inventar montantes**.
+
+### Construção do templo — PLANEJAMENTO, não gasto realizado
+- Em vez de mudar para outra casa, Rain propôs **demolir/reconstruir a antiga igreja como templo de inspiração grega**, chamado **家庭と炉火と家族の女神ヘスティアの神殿** (*Katei to roba to kazoku no megami Hestia no shinden*, "Templo de Hestia, Deusa do Lar, do Fogo e da Família").
+- Hestia quer **preservar a antiga lareira**, cozinha espaçosa, jardim, quartos adicionais, banheiro e espaço para a Familia crescer.
+- Hestia e Bell começaram **esboços preliminares** e discutiram contratar arquiteto/construtor. **Não há orçamento aprovado, projeto técnico contratado, demolição, reforma ou início de obra**.
+- Reserva antiga de **10 milhões de valis** era meta idealizada por Rain para uma casa, **não custo real ou preço aprovado do novo templo**.
+- A atual residência permanece **a velha igreja**, com cama de casal adquirida por 23.000 valis, compartilhada por Rain e Hestia, e cama antiga de Bell.
+
+### Lili e compromissos
+- A remuneração discutida quando Lili foi inicialmente contratada como suporte: **40% para ela, 60% para Rain/Bell juntos**, possibilidade futura 50/50 por mérito. Não houve prova de pagamento dessa divisão referente à horda; não inventar transferência.
+- **Lili foi expulsa da Familia Soma**, sem renda e sem moradia fixa. Ficou **temporariamente na igreja**, mas não ingressou formalmente na Familia Hestia. Não lançar despesas futuras como feitas.
