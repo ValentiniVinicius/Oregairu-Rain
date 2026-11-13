@@ -1,46 +1,43 @@
-# Estado atual | Retomar a narrativa daqui
+# Estado atual — ponto exato de retomada
 
-**Mundo:** DanMachi; Orario. Repositório chamado Oregairu-Rain apenas por convenção do usuário.
+**Universo:** DanMachi, continuidade alternativa de Rain em Orario.
 
-## Cena vigente
+## Cena em andamento
 
-**Dia seguinte ao duelo na praça da Guilda, cerca de 12h26. Confeitaria Flor de Mel, distrito comercial de Orario.**
+**Dia da Monsterphilia, aproximadamente 17h34, rua próxima ao Coliseu de Orario.** A operação de contenção de monstros fugitivos foi encerrada. Rain (humano, 18 anos, **nível 2**) ficou conhecido informalmente como **戦犬 / Senken**, “Cão de Guerra” (“War Dog”), pela ferocidade ao caçar **12 monstros** durante o incidente; ainda **não é epíteto oficial de Denatus**.
 
-Rain e Hestia estão **sozinhos no primeiro encontro espontâneo**. Bell está na Torre Babel / Dungeon. Hestia mantém castigo de Rain após escapadas à Dungeon, mas aceita passeio de compras como parte do dia longe da Dungeon.
+Rain está em **frenesi de combate** e acabou de gritar: **“CADÊ O PRÓXIMO?! QUE VENHAM MAIS!!!”**. Pensamento explícito escolhido pelo usuário: **“Devorar... é uma habilidade maravilhosa...”**
 
-Na confeitaria:
-- Hestia e Rain estão próximos e afetuosos; ela considera especial o encontro e aceitou sua mão durante o passeio.
-- Há bolo de morango para dividir; Hestia pediu chocolate quente.
-- Hestia perguntou se Rain havia encontrado um lar. Rain sorriu e respondeu que, dentre todos os deuses e deusas, **a escolheria todas as vezes**.
-- Hestia se emocionou, disse que sempre haveria um lugar para Rain ao seu lado.
-- Hestia ofereceu uma garfada de bolo ("Aaaah~"), que Rain aceitou alegremente.
-- Uma atendente os confundiu com casal; Hestia fica envergonhada, mas aprecia a ideia.
-- Um casal idoso inspirou Hestia com a ideia de aproveitar momentos compartilhados.
-- **Hestia acabou de perceber espuma de chocolate acima de seu lábio. Ela se inclinou um pouco, apontou para a própria boca e perguntou:**
-  > **"Rain, ainda tem chocolate aqui?"**
+**Bete Loga** chegou com **Tiona e Tione** da Familia Loki, reconheceu Rain e o provocou: **“Já terminou de brincar de cão raivoso, Senken?”**. **Este é o último diálogo de NPC. Rain ainda não respondeu, não iniciou novo golpe e não aceitou confronto**. A narradora não deve fazê-lo falar, agir, pensar ou escolher por ele. Bete sabe que perdeu a antiga competição de primeiro toque no rosto; **não sabe que Rain copiou Solmani**. Tiona está animada, Tione observa com cautela. Não há monstros visíveis restantes nessa rua.
 
-**Próximo turno:** responder apenas às ações/falas que o usuário decidir para Rain. **Não inventar gesto para limpar a boca, beijo, fala, escolha ou mudança de cena por Rain.**
+## O que ocorreu após o primeiro encontro (síntese)
 
-## Mecânicas ativas
+1. Rain e Hestia tiveram um encontro espontâneo: confeitaria Flor de Mel, bolo de morango, chocolate quente, beijo de carinho, encontro com Loki na fonte, compra de cama de casal em oficina e passeio ao jardim antigo onde Hestia costumava ficar sozinha.
+2. **Cama de casal comprada por 23.000 valis** (preço inicial 26.500); Rain deu saco de 30.000 e recebeu 7.000 de troco. A entrega/montagem foi posteriormente narrada como **concluída na igreja**. O vestido de Hestia ficou reservado para um segundo encontro formal.
+3. Hestia e Rain reafirmaram atração romântica e carinho; Hestia preserva seus limites, castidade e autonomia. Rain disse que veio de um mundo tecnologicamente mais avançado, onde uma deusa o matou por engano e o trouxe a Orario como compensação. Disse que já admirava Hestia antes de conhecê-la e a escolheria; quando ela perguntou se sentia saudade do mundo anterior, respondeu: **“Não. Minha família... está aqui.”** Hestia se emocionou.
+4. Dias depois Rain acompanhou Bell na Dungeon; Bell ganhou confiança, precisão e capacidade de pensar ofensivamente.
+5. Durante a **Monsterphilia**, Rain enfrentou um Silverback desarmado para proteger Bell, Hestia e civis: usou Impulso Anfíbio + Solmani após desviar, deu joelhada no rosto; depois atacou vulnerabilidade anatômica do monstro e finalizou com saraivada de socos, assimilando **Musculatura de Prata**.
+6. Diante da multidão, Rain uivou e declarou: **“SOU RAIN DA FAMILIA HESTIA! HOJE NOSSA FAMILIA SALVOU AS SUAS VIDAS!”**. Recebeu aplausos; Hestia se encheu de orgulho. O apelido **War Dog / Senken** se espalhou.
+7. Com Bell evacuando Hestia, Rain ajudou a Familia Ganesha. Destruiu a cabeça de um Orc com um soco usando todos os buffs de velocidade, assimilando **Ossatura de Guerra**. Caçou outros monstros ferozmente; adquiriu **Carapaça Subdérmica** (Killer Ant), melhorias de Passo Sombrio (War Shadow), Ossatura de Guerra (Orc), Olfato Aguçado (Kobold) e Reflexos Predatórios (Goblin). Total narrado para operação: **12 monstros** abatidos por Rain, incluindo Silverback.
+8. **Ao mesmo tempo, longe de Rain e sem que ele saiba**, Bell se colocou entre Hestia/civis e um **Minotauro**, recebeu a **Hestia Knife** de Hestia durante o combate, venceu sozinho, sofreu ferimentos e teve a Falna atualizada por Hestia para **nível 2** em abrigo da Guilda. Bell quer contar a Rain pessoalmente. Rain **ainda NÃO sabe** da vitória, da Hestia Knife nem da ascensão de Bell, exceto se perceber futuramente.
+9. Freya e Loki viram parte da atuação de Rain; Freya percebe a intensidade incomum de sua alma, **sem saber a origem das passivas, copiar habilidades ou ler pensamentos**. Loki sabe da rivalidade de Bete, não da cópia. Guilda e Familia Ganesha tomaram conhecimento de seus feitos.
 
-- Rain **nível 2**, ascensão já aplicada por Hestia; ainda falta burocracia de atualização de cadastro da Guilda (se não houver sido feita por cenas futuras).
-- Monstros derrotados concedem uma aquisição de Devorar por vitória (passiva/atributo/habilidade), sem garantir técnica nomeada.
-- Contra humano/divindade, só há aquisição se convite "Vamos jogar?" / "Vamos jogar um jogo?", aceite claro, regra e vitória.
-- Já possui **Solmani** após vencer Bete em desafio limitado, **Liaris Freese** após desafio de água contra Bell, **Chama do Lar** após braço de ferro com Hestia, passivas de monstros e incremento de vigor de Gardo.
-- Movimentos combináveis conhecidos: Passo Sombrio, Impulso Anfíbio e Solmani.
-- Rain sofreu cortes nas costas na batalha contra três War Shadows; poção cicatrizou e marcas permaneceram. Não estão sangrando na cena atual.
-- **War Dog** foi sugerido extraoficialmente pelo anão da Guilda; ainda não título formal.
+## Mecânicas essenciais que não podem ser esquecidas
 
-## Próximos fios narrativos, sem predeterminar escolhas
+- **Twin Monster: crescimento ~10× ATIVO CONSTANTEMENTE**, não somente em combates. Ele se aplica a aprendizado, adaptação, progressão e Excelia pertinentes. Não significa 10× força instantânea.
+- **Blessed by All Gods: bênção de sorte/favor divino ATIVA CONSTANTEMENTE**, com efeito significativo, sem imunidade a perigos.
+- **Devorar: aquisição permanente e específica por monstro derrotado** (passiva, habilidade, atributo ou aprimoramento), sem recompensas vagas; todas as adquiridas listadas em [PODERES.md](canon/PODERES.md).
+- **Liaris Freese copiada de Bell:** Rain a possui e ela funciona de acordo com sentimentos e determinação, coexistindo com Twin Monster. Bell conserva a original e não sabe que a tem.
+- **Chama do Lar copiada de Hestia:** passiva permanente de resiliência ao defender os seus e recuperação em repouso seguro.
+- **Solmani copiada de Bete:** faz força e velocidade escalarem com aceleração; Bete **NÃO SABE** da cópia.
+- **Sigilo:** NPCs conhecem apenas o que lhes foi dito ou mostrado; observar efeitos não revela a causa. Hestia conhece Devorar, não todos seus detalhes automaticamente.
+- **Falna:** Rain já é nível 2; atributos visíveis do novo nível iniciaram em I0 e **não foram atualizados numericamente em cena depois de Monsterphilia**. Evolução contínua e ganhos de Devorar não promovem nível automaticamente. Bell também é nível 2 agora.
+- Rain controla exclusivamente suas ações, movimentos e palavras através do **usuário**; a narradora deve oferecer espaço de decisão a cada turno, não resolver por ele.
 
-1. Encontro formal posterior de Rain e Hestia com vestido especial da deusa.
-2. Compra e instalação de cama de casal na igreja, se Rain/Hestia concretizarem.
-3. Bell pretende ganhar coragem e convidar Ais Wallenstein a comer Jagamarukun; ainda não se sabe como ela responderia.
-4. Tiona e Ais interessadas em treinar técnicas de Rain; Bete quer revanche.
-5. Possível divulgação da promoção excepcional nível 2 e consequências entre Familias.
-6. Evolução rumo à ambição de Rain: "mais forte sobre os céus" e a casa da Familia Hestia.
-7. Hestia não quer novas aventuras perigosas de Rain sem aviso e ainda está no período de castigo.
+## Pontas narrativas abertas
 
-## Restrições absolutas
-
-**Rain pertence inteiramente ao usuário.** Não atribuir a ele falas, decisões, golpes, vontades ou ações não escolhidas por ele. Narrar NPCs, cenário e resultados de suas decisões. Não misturar com outros universos.
+- Resposta de Rain à provocação de Bete. Não assumir combate, revanche ou jogo.
+- Rain ainda precisa saber por Bell sobre Minotauro, Hestia Knife e nível 2.
+- Reação da Guilda e de outras Familias à ascensão dos dois novatos e ao surgimento do “Senken”.
+- Atualização posterior de Falna de Rain para verificar Excelia acumulada, sem inventar valor agora.
+- Segundo encontro formal com Hestia, construção do lar e ambição de Rain de ser “o mais forte sobre os céus”.
