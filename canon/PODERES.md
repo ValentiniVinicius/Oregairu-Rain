@@ -1,4 +1,4 @@
-# Rain | Poderes, bênçãos e aquisições (estado após a Monsterphilia)
+# Rain | Poderes, bênçãos e aquisições (estado atualizado após o jogo com Hermes)
 
 Este documento é a referência prioritária sobre mecânicas. As três dádivas iniciais **estão ativas desde a chegada de Rain e não precisam ser reativadas pelo narrador**. Aquisições de Devorar coexistem com a Falna, sem substituir suas regras.
 
@@ -63,9 +63,24 @@ A cena estabeleceu **12 monstros abatidos por Rain durante o incidente da Monste
 
 Esses poderes coexistem, mas **não são autorização para a narradora escolher movimentos ou ataques de Rain**. Só o usuário declara os buffs utilizados, movimentos concretos e intenções táticas; a narradora descreve resultado e aquisições automáticas consequentes.
 
-## V. Limites e atualizações futuras
+## V. Evolução após a Monsterphilia — nível 3 confirmado
 
-- Rain é **nível 2** (ascensão oficial pela Falna de Hestia); a última atualização numérica do nível 2 não foi mostrada após as muitas caçadas e a Monsterphilia. Seus atributos são **desconhecidos até Hestia medir**. Não anunciar nível 3 automático.
-- O último quadro de nível 2 iniciou com todos os parâmetros visíveis em I0, sem magia pessoal confirmada.
-- A aquisição de Devorar é permanente e automática; explicar de forma **concreta** o ganho em cada vitória significativa, jamais rebaixá-la a bônus vago.
-- Guardar separadamente: **mecânica real** (conhecida por Rain e pelo leitor), **o que cada NPC presenciou** e **o que esse NPC sabe**.
+- Rain concluiu uma luta de **aproximadamente três horas sozinho contra horda monstruosa no oitavo andar**, formada após Lili usar isca de monstros. Centenas de cristais ficaram no local; foi encontrado ferido por membros da Familia Loki. O acúmulo de Excelia, Twin Monster ~10× e Liaris Freese, somado ao feito extraordinário, permitiu **Hestia efetivar a promoção nível 2 → 3**.
+- O **nível atual de Rain é 3**, não 2. Novos atributos visíveis reiniciam em I0, enquanto níveis anteriores seguem incorporados; **números pós-ascensão não foram estabelecidos**. Não inventar valores para força, velocidade etc.
+- Durante a expedição dos andares 7–8, Rain obteve **Resistência Tóxica (Purple Moth)**: adaptação permanente para filtrar/neutralizar parte de toxinas inaladas e reduzir sua ação, **sem imunidade universal a venenos**. Houve reforços concretos na ossatura e demais ganhos cumulativos de criaturas da horda, mas **não existem nomes/quantidades detalhados para todas as centenas de abates**. Preservar progresso e não inventar habilidades retroativas.
+
+## VI. Nova aquisição humana/divina — Hermes
+
+**Astúcia do Trapaceiro (cópia permanente de Hermes):**
+- Jogo proposto por Rain com o gatilho **"Vamos jogar?"**, aceito por Hermes. Uma charada para cada, e vitória apenas se um errasse e o outro acertasse; oponentes sem ajuda.
+- Primeira rodada **empate**: Rain respondeu "mapa"; Hermes respondeu "lágrima". **Nenhuma aquisição**.
+- Segunda rodada, reiniciado o desafio com convite aceito: Rain acertou **"um buraco"**; Hermes respondeu **"esperança"** à charada de Rain, cuja resposta era **"o amor"**. Hermes reconheceu explicitamente a derrota; condições cumpridas.
+- **Recompensa: Astúcia do Trapaceiro**. Capacidade passiva de perceber melhor *blefes, contradições sutis e tentativas de manipulação*, e de *improvisar verbalmente e raciocinar estrategicamente* em situações sociais. **Não lê pensamentos, não detecta infalivelmente mentiras e não copia Arcanum.** Hermes mantém seus dons e **não sabe que Rain o copiou**.
+- Esta habilidade existe **além** de todas as passivas de monstros e demais jogos; não substitui Solmani, Liaris Freese, Chama do Lar ou Vigor físico.
+- O narrador deve aplicar seus efeitos concretos na interpretação e na percepção social quando pertinente, **sem escolher pensamentos, ações ou falas de Rain**.
+
+## VII. Regras de consistência
+
+- **Twin Monster 10× e Blessed by All Gods nunca se desligam**; respeitar crescimento acumulado mesmo fora da Dungeon.
+- Cada derrota de monstro gera aquisição concreta de Devorar; vitória sobre pessoa/divindade exige pacto consentido e resultado favorável. Empate não gera cópia.
+- Guardar separadamente mecânica real, observação externa e conhecimento de cada NPC: **Bete não sabe sobre Solmani; Bell não sabe sobre Liaris Freese copiada; Hermes não sabe sobre Astúcia do Trapaceiro**.
