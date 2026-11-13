@@ -8,7 +8,7 @@ Deusa da lareira, do lar e líder da Hestia Familia. Afetuosa, protetora, ciumen
 
 ### Bell Cranel
 
-Humano albino, adventurer iniciante, irmão mais velho de Rain na Familia Hestia. Sonha se tornar herói e alcançar Ais Wallenstein; cora facilmente, é gentil, modesto e sinceramente determinado. Rain lhe deu dinheiro, ensinou a convidar Ais para um lanche com naturalidade e o protegeu publicamente. Presenciou Rain destruir War Shadows com combo de velocidade e vencer Gardo. Não sabe que tem Liaris Freese; não entende completamente Devorar. Foi à Torre Babel / Dungeon enquanto Rain e Hestia compravam móveis e roupas. Nos dias seguintes treinou junto de Rain, melhorando esquivas, reflexos e confiança. **Na Monsterphilia, defendeu Hestia e civis contra um Minotauro e o derrotou sozinho com a Hestia Knife recebida da deusa no combate. Hestia efetivou sua ascensão ao nível 2 no abrigo da Guilda.** Bell quer contar a Rain pessoalmente; **Rain ainda desconhece a vitória e promoção**.
+Humano albino, adventurer iniciante, irmão mais velho de Rain na Familia Hestia. Sonha se tornar herói e alcançar Ais Wallenstein; cora facilmente, é gentil, modesto e sinceramente determinado. Rain lhe deu dinheiro, ensinou a convidar Ais para um lanche com naturalidade e o protegeu publicamente. Presenciou Rain destruir War Shadows com combo de velocidade e vencer Gardo. Não sabe que tem Liaris Freese; não entende completamente Devorar. Foi à Torre Babel / Dungeon enquanto Rain e Hestia compravam móveis e roupas. Nos dias seguintes treinou junto de Rain, melhorando esquivas, reflexos e confiança. **Na Monsterphilia, defendeu Hestia e civis contra um Minotauro e o derrotou sozinho com a Hestia Knife recebida da deusa no combate. Hestia efetivou sua ascensão ao nível 2 no abrigo da Guilda.** Bell posteriormente contou os fatos, e **Rain já conhece a vitória, a faca e a promoção**.
 
 ## Familia Loki
 
@@ -18,15 +18,15 @@ Princesa da Espada, espadachim calma, observadora, nível 5 nesse momento da cro
 
 ### Bete Loga
 
-Lobisomem arrogante e poderoso, nível 5 da Familia Loki. Aceitou o jogo de primeiro tocar com punho o rosto do outro. Perdeu por técnica e astúcia; Rain o chamou ironicamente de "senhorita". Bete deixou de usar toda sua potência para não machucar um iniciante ferido. Rain retribuiu poupando-lhe golpe duro e ajudando-o a levantar. Respeito relutante, rivalidade e convite informal para revanche. **Não sabe, em absoluto, que Rain copiou Solmani**; a rivalidade é pela derrota numa competição de regra restrita, não por suspeita de habilidade roubada. Na cena vigente (~17h34, pós-Monsterphilia), chegou com Tiona e Tione, viu Rain em frenesi e o provocou: **“Já terminou de brincar de cão raivoso, Senken?”**.
+Lobisomem arrogante e poderoso, nível 5 da Familia Loki. Aceitou o jogo de primeiro tocar com punho o rosto do outro. Perdeu por técnica e astúcia; Rain o chamou ironicamente de "senhorita". Bete deixou de usar toda sua potência para não machucar um iniciante ferido. Rain retribuiu poupando-lhe golpe duro e ajudando-o a levantar. Respeito relutante, rivalidade e convite informal para revanche. **Não sabe, em absoluto, que Rain copiou Solmani**; a rivalidade é pela derrota numa competição de regra restrita, não por suspeita de habilidade roubada. Historicamente, no pós-Monsterphilia, chegou com Tiona e Tione, viu Rain em frenesi e o provocou: **“Já terminou de brincar de cão raivoso, Senken?”**.
 
 ### Tiona Hiryute
 
-Amazona extrovertida, brincalhona e competitiva. Ficou fascinada com as projeções de Rain, quer treinar com ele. Zomba frequentemente de Bete. **Presente junto a Bete e Tione na provocação pós-Monsterphilia**, curiosa sobre a ferocidade de Rain.
+Amazona extrovertida, brincalhona e competitiva. Ficou fascinada com as projeções de Rain, quer treinar com ele. Zomba frequentemente de Bete. **Esteve com Bete e Tione na provocação pós-Monsterphilia**, curiosa sobre a ferocidade de Rain.
 
 ### Tione Hiryute
 
-Irmã amazona de Tiona, mais disciplinada; repreende os excessos de Tiona e Bete. Respeita o senso tático de Rain. **Presente junto a Bete e Tiona na provocação pós-Monsterphilia**, observadora e pragmática.
+Irmã amazona de Tiona, mais disciplinada; repreende os excessos de Tiona e Bete. Respeita o senso tático de Rain. **Esteve com Bete e Tiona na provocação pós-Monsterphilia**, observadora e pragmática.
 
 ### Lefiya Viridis
 
@@ -83,3 +83,54 @@ Criança de aproximadamente seis anos, conheceu Rain e Hestia durante encontro n
 ## Tom de relações
 
 Hestia continua casta e autônoma mesmo com romance nascente, pode desejar proximidade sem consentimento implícito para intimidade sexual. Bell continua tendo iniciativa própria e interesse por Ais. Bete pode provocar Rain e buscar revanche, sem pressupor que Rain aceitará. Nunca narrar reações de personagens a informações que eles não receberam.
+
+## Desenvolvimento posterior — eventos após Monsterphilia (13/11/2026)
+
+> Os resumos de Monsterphilia acima são históricos. Este bloco é a situação **mais recente** e substitui quaisquer menções a "Rain ainda não sabe do nível 2 de Bell" ou "Bete acaba de chegar" como estado atual.
+
+### Hestia — atual
+- **Atualizou Rain ao nível 3** após horda da Dungeon. Interveio contra Rain na invasão da Familia Soma e impôs castigo, por temer perder os filhos. Defendeu alimentar Lili, sem declarar que ela merece confiança; **separa compaixão de perdão** e não obriga Rain a aceitá-la.
+- Aceitou estudar a transformação da igreja em **Templo de Hestia, Deusa do Lar, do Fogo e da Família**; quer cozinha, quartos futuros, jardim e **preservar a antiga lareira**. Nada construído.
+- Dormiu abraçada com Rain no quarto do casal após ele voltar embriagado da taverna, e ouviu sua dor e culpa pela traição; ele acordou de ressaca. Ela conhece as emoções de Rain mas **não sabe automaticamente sobre a cópia de Astúcia do Trapaceiro de Hermes**.
+- **Cena atual:** igreja, com Bell e Lili, depois de Rain avisar que sairia para caminhar. Hestia diz que a transferência de Lili **ainda não foi decidida**.
+
+### Bell Cranel — atual
+- **Nível 2** confirmado; conhece sua vitória contra Minotauro e porta **Hestia Knife** recuperada. Rain conhece esses fatos agora.
+- Ao ver Rain tentando atacar Lili, **Bell se colocou diante dela e Rain parou o punho antes de encostar nele**. Não foi atingido, nem ferido por Rain.
+- Perdoa Lili em relação ao dano pessoal e quer oferecer nova chance, acredita em seu remorso. Isso não apaga o trauma e o direito de Rain à desconfiança. Sabe que Rain escolheu respeitar sua opinião, mas recusou confiar suas costas a Lili. Bell conserva agência própria, bondade e interesse romântico por Ais.
+- **Ais pretende convidar Bell para almoçar** após a conversa de Rain com Ais/Tiona. **Bell ainda não recebeu esse convite**.
+
+### Liliruca Arde (Lili) — NOVA
+- Pallum, ex-suporte da **Familia Soma**, explorada por seus integrantes; astuta, cautelosa, habituada a desconfiar. Rain e Bell contrataram-na como suporte numa divisão combinada de 40% do produto para ela e 60% para os dois, possivelmente negociável a 50/50 conforme trabalho. Rain a tratou como irmãzinha, comprou-lhe fruta e a defendeu.
+- Na Dungeon, **usou uma isca que atraiu uma horda enorme ao oitavo andar**, armadilha da qual Rain protegeu Bell e Lili, ficando sozinho contra os monstros durante três horas. Lili também **roubou a Hestia Knife** de Bell e fugiu.
+- Confessou armadilha e roubo durante confronto na sede da Soma. Depois da queda de Zanis e reorganização, **foi expulsa da Familia Soma**, sem casa ou recursos; precisa transferir a Falna para se tornar membro de outra Familia.
+- **Passou uma noite provisoriamente na sala da igreja**, recebeu alimento de Hestia, preparou chá para Rain (que **não bebeu**). Bell pede que possa ficar e ingressar na Familia Hestia; Hestia ainda avalia; Rain **não perdoou nem voltou a confiar**, mas aceita respeitar a decisão de Bell de ajudar. **Ela NÃO É membro da Familia Hestia neste momento.**
+- Sua vergonha e remorso foram expressos, mas o arrependimento não equivale a crédito imediato, absolvição ou lealdade incondicional. NPC com interesses próprios.
+
+### Familia Soma, Zanis e Soma — NOVOS
+- **Zanis Lustra**, antigo capitão, explorava membros como Lili; confrontou Rain depois que este invadiu a sede exigindo Hestia Knife e valores. **Rain arrancou seu braço durante o ataque**; Zanis recebeu atendimento. Não presumir morte.
+- **Soma**, deus da Familia, foi confrontado com a corrupção e atos praticados em seu nome. Depois disso a Familia iniciou reorganização/investigações e **expulsou Lili**. Nenhum perdão de Rain foi estabelecido.
+- **Rain reconheceu Bell e parou seu soco a centímetros do rosto/corpo dele** quando Bell protegeu Lili; crucial: não agrediu Bell.
+
+### Familia Loki — Ais, Tiona, Tione e Bete — atualização
+- **Ais, Tiona, Tione e Bete** encontraram Rain vivo, mas gravemente ferido, depois de três horas e da horda da Dungeon, cercado de centenas de cristais.
+- Posteriormente, Rain sugeriu a **Ais** que convidasse **Bell** para almoçar e que segurasse sua mão; brincou sobre possíveis "beijocas". **Ais gostou da ideia** e cogita convidá-lo. **Tiona** riu e a provocou. Não inventar beijo nem convite já realizado.
+- **Bete NÃO sabe que Solmani foi copiada**. Outras pessoas também desconhecem a mecânica de Devorar, salvo revelação.
+
+### Hermes e Asfi — NOVOS
+- **Hermes**, mensageiro dos deuses, brincalhão e astuto, conversou com Rain sobre o futuro **Denatus** e depois o encontrou alcoolizado com **Asfi Al Andromeda**, sua capitã, que o repreendia. Rain o desafiou com gatilho Devorar a um jogo consentido de charadas; **primeiro jogo empate, segundo jogo perdido por Hermes**. Rain copiou **Astúcia do Trapaceiro**, mas Hermes/Asfi **não sabem**. Levaram Rain até sua igreja.
+- **Denatus ainda NÃO ocorreu**. Hermes e Hestia sabem que Bell e Rain precisarão de epítetos oficiais; o nome **Senken** é popular, não aprovado.
+
+### Taverna Senhora da Fertilidade — Ryuu, Syr, Mia e Anya — NOVAS
+- **Ryuu Lion:** elfa de cabelos verdes, ex-aventureira da Familia Astrea, agora garçonete séria, reservada e habilidosa; ouviu Rain falar de ter sido traído, de oferecer a própria vida por Lili e de desejar ser o mais forte sobre os céus. Compartilhou apenas parte da sua dor passada; Rain não recebeu revelação integral de sua história. Tratou-o com respeito; sugeriu que pudessem conversar sobre combate em outra ocasião.
+- **Syr:** gentil, sociável e curiosa, ofereceu comida com Ryuu; Rain chamou-a "Syr-dono" e a agradeceu. Não invadir seus segredos canônicos.
+- **Mia Grand:** proprietária exigente, zelosa da casa; cobrou a caneca que Rain quebrou após beber. Rain **pagou a conta, a caneca e gorjetas generosas**.
+- **Anya:** garçonete felina desastrada, brincou que o Senken fora vencido pela bebida; Mia frequentemente a repreende.
+
+### Fortuna, Ganesha e Guilda — atualização
+- A Familia Ganesha pagou/acertou **500 mil valis** pela negligência ligada à Monsterphilia. Guilda avaliou cristais da luta contra a horda da Dungeon em **três milhões de valis**. Não inventar saldo final preciso.
+- **Eina** está ciente de Rain **nível 3** e Bell **nível 2**, ainda preocupada com ritmo e segurança extraordinários.
+- **Freya/Loki** podem acompanhar rumores; sem onisciência sobre Devorar.
+
+### Dinâmica vigente
+Rain decidiu sair para caminhar após o café da manhã. **Não colocar Rain automaticamente em novo local.** Hestia, Bell e Lili permanecem na igreja; a entrada de Lili na Familia não foi aprovada nem formalizada.
