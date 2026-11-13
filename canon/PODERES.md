@@ -1,56 +1,71 @@
-# Rain | Poderes e aquisições
+# Rain | Poderes, bênçãos e aquisições (estado após a Monsterphilia)
 
-Os três poderes especiais foram escolhidos na ressurreição; as demais habilidades foram adquiridas durante a história. **Não confundir aquisições com a magia/Falna normal de DanMachi.**
+Este documento é a referência prioritária sobre mecânicas. As três dádivas iniciais **estão ativas desde a chegada de Rain e não precisam ser reativadas pelo narrador**. Aquisições de Devorar coexistem com a Falna, sem substituir suas regras.
 
-## 1. DEVORAR — regra fundamental
+## I. Três dons originais — sempre presentes
 
-### Contra monstros
+### 1. DEVORAR — assimilação permanente
 
-Ao **derrotar** um monstro, Rain assimila automaticamente **uma** possibilidade dentre habilidade, característica física, passiva, atributo ou melhoria incremental daquele monstro. Nem toda vitória rende uma habilidade nomeada. Bônus físicos e melhorias em passivas podem se repetir e acumular.
+**Contra monstros:** cada monstro efetivamente derrotado por Rain produz **uma aquisição identificável** de sua natureza: uma habilidade, passiva, adaptação anatômica, incremento específico de atributo ou aprimoramento concreto de capacidade anteriormente absorvida. A aquisição é **automática e permanente**. Não precisa virar uma habilidade nova e nomeada toda vez, mas **nunca resumir uma vitória importante a “ficou mais forte” sem especificar o que mudou**. Monstros derrotados em grande quantidade podem produzir aprimoramentos cumulativos; não inventar dezenas de nomes retrospectivos sem cena.
 
-### Contra pessoas
+**Contra pessoas (inclusive divindades com poder permitido):**
+1. Rain diz o convite-gatilho **“Vamos jogar?”**, ou **“Vamos jogar um jogo?”**.
+2. O outro aceita claramente e há uma condição verificável de vitória.
+3. Rain vence segundo as condições aceitas.
+4. Rain obtém **uma** habilidade ou atributo do outro, permanentemente; o derrotado mantém seu poder original.
+5. A habilidade copiada opera dentro da capacidade de Rain (copiar de alguém nível 5 não transfere o nível, atributos totais ou Arcanum).
+6. Sem convite, aceite e vitória, nenhuma cópia humana/divina. A primeira competição de comida com Bell não concedeu nada porque faltou gatilho.
+7. Poderes divinos selados (Arcanum) não são copiáveis por esse mecanismo.
 
-1. Rain deve convidar com o gatilho **"Vamos jogar?"** ou variante explícita empregada na história **"Vamos jogar um jogo?"**.
-2. O oponente precisa **aceitar claramente** uma competição identificável.
-3. As condições de vitória devem ser compreensíveis e Rain precisa vencer conforme a condição combinada.
-4. Vitória concede **uma habilidade ou atributo** permanentemente ao Rain.
-5. O oponente **não perde** seu poder original.
-6. Vencer um desafio restrito não significa vencer um combate ilimitado; não copiar automaticamente o nível inteiro, todas as capacidades ou a força total do rival.
-7. Arcanum divino selado continua inacessível; o poder não permite absorvê-lo.
+**SIGILO ABSOLUTO — regra de conhecimento dos NPCs:** os demais personagens NÃO têm acesso automático à lista de poderes de Rain. Ver velocidade, força, efeitos ou um jogo vencido **não revela** que Devorar copiou algo, nem a habilidade, nem sua origem. **Bete NÃO sabe que Rain copiou Solmani**. Bete sabe apenas que perdeu uma competição de toque no rosto e viu Rain muito veloz. Não atribuir a Bete ciúme por “ter sua habilidade roubada”, nem pensamentos ou diálogos sobre isso. Bell NÃO sabe que Rain copiou Liaris Freese dele; Bell tampouco sabe que ele próprio a possui. Loki, Tiona, Tione, Eina, Freya e demais observadores podem notar feitos extraordinários e especular, **mas não diagnosticar Devorar, Solmani copiada ou os dons iniciais sem revelação/evidência na história**. Hestia conhece a existência de Devorar e pode conhecer parte das aquisições que Rain lhe contou ou que sua Falna permite identificar; isso **não lhe dá onisciência sobre todos os gatilhos e ganhos exatos**. Preservar a distinção entre segredo narrativo conhecido pelo leitor e conhecimento de cada NPC.
 
-### Aquisições humanas e divinas confirmadas
+### 2. TWIN MONSTER — bênção de crescimento 10×
 
-- **Bell Cranel — Liaris Freese:** competição de velocidade para beber água. Rain disse o gatilho correto e venceu. Bell **conserva a própria habilidade e não sabe que a possui**; Hestia oculta esse segredo dele.
-- **Hestia — Chama do Lar:** disputa de braço de ferro com gatilho e aceite. Fortalece resiliência física e mental ao proteger familiares reconhecidos e melhora cura natural durante repouso seguro no lar. Hestia continua divina; não houve apropriação de Arcanum.
-- **Bete Loga — Solmani:** aposta para determinar quem encostaria primeiro um punho no rosto adversário, com gatilho e aceite. Rain usou movimentação, técnica de judô e poeira, montou Bete e tocou suavemente a bochecha com o punho. **Solmani** aumenta força e velocidade com a aceleração; dimensionado ao corpo/nível de Rain, não equivale a obter os atributos de Bete nível 5. Bete retém Solmani.
-- **Gardo — Vigor físico (incremento de atributo):** aceitou o jogo "Rain o derruba sem receber um soco; Gardo vence se acertar primeiro". Rain o atropelou com Impulso Anfíbio e Solmani, nocauteando-o sem sofrer soco. Assimilou uma parcela permanente de resistência/tolerância a impacto e esforço. **Não recebeu habilidade nomeada de Gardo.**
+**ATIVA CONSTANTEMENTE, 24 horas por dia**, em treinos, descanso, aprendizagem, enfrentamentos, Dungeon e mundo exterior. Rain dispõe de **potencial de crescimento, aprendizado, adaptação e assimilação aproximadamente dez vezes mais acelerado** que um aventureiro típico, incluindo aquisição de Excelia e aprimoramentos relevantes dentro da lógica de sua Falna. Nunca esquecer esse multiplicador ao narrar evolução e resultados; somá-lo narrativamente aos efeitos de Devorar e de Liaris Freese quando cabível.
 
-**Primeira competição de comer com Bell:** não concedeu poder, pois o gatilho não foi dito.
+**Não é um buff temporário e não é +10× instantâneo em dano/força/velocidade atual**. Crescimento acumulado não equivale a vitória garantida; a ascensão de nível ainda depende de feito significativo e **atualização de Falna por Hestia**. Evitar multiplicar a mesma conquista por dez em duas etapas diferentes sem justificativa.
 
-## 2. TWIN MONSTER
+### 3. BLESSED BY ALL GODS — bênção dos deuses
 
-Potencial de adaptação, aprendizado e crescimento em combate/magia aproximadamente **dez vezes maior** que o comum. Combina com a progressão da Falna e com Devorar; não significa vitória garantida.
+**ATIVA CONSTANTEMENTE**, com favor divino e sorte excepcional em encontros, oportunidades, coincidências favoráveis, chances difíceis e caminhos de progressão. Não exige invocação ou ativação verbal. A narração deve levar o dom em conta **de forma real e perceptível**, principalmente em situações de risco, destino, oportunidades e consequências, sem garantir invulnerabilidade, impor resultados impossíveis, manipular pessoas automaticamente ou tornar Rain imune à derrota. Não é liberação de Arcanum.
 
-## 3. BLESSED BY ALL GODS
+## II. Aquisições de jogos vencidos contra pessoas
 
-Favor/luck divino excepcional. Não é Arcanum ativado nem imunidade ao perigo.
+- **Bell Cranel — Liaris Freese.** Rain o venceu num desafio de beber água com gatilho válido. Crescimento acelerado sustentado por sentimentos e determinação: **permanece ativo em Rain conforme suas condições emocionais**, acumulando-se conceitualmente com o Twin Monster 10× sempre ativo. Bell conserva a habilidade original, que continua a ajudá-lo, mas não sabe de sua existência. Não afirmar “10× de Liaris Freese” nem fixar um segundo fator numérico desconhecido.
+- **Hestia — Chama do Lar.** Ganho numa disputa de braço de ferro com convite e aceite. **Passiva permanente**: resiliência física e mental ao proteger a Familia e recuperação natural melhorada em ambiente de repouso e segurança do lar. O poder existe sempre; seus benefícios situacionais dependem das circunstâncias. Hestia mantém divindade; Arcanum não foi copiado.
+- **Bete Loga (nível 5) — Solmani.** Rain ganhou uma disputa de primeiro toque com punho no rosto. Aceleração do corpo amplifica sua força e velocidade, ajustada às capacidades atuais de Rain. **Bete mantém Solmani e NÃO SABE que Rain recebeu uma cópia**. Não foi vencido em duelo irrestrito.
+- **Gardo (nível 2) — Vigor físico.** Desafio de derrubá-lo antes de receber um soco. Incremento permanente de tolerância a esforço/impacto e resistência corporal, sem habilidade nomeada roubada.
 
-## Passivas de monstros assimiladas
+## III. Passivas e adaptações de monstros — confirmadas
 
-- **Reflexos Predatórios (Goblin):** melhora reação instintiva contra ataques próximos.
-- **Recuperação Instintiva (Goblin):** ajuda a recuperar equilíbrio corporal.
+### Adquiridas antes da Monsterphilia
+- **Reflexos Predatórios (Goblin):** reação instintiva rápida a ataques próximos.
+- **Recuperação Instintiva (Goblin):** recuperação do equilíbrio e da coordenação após impactos/manobras.
 - **Olfato Aguçado (Kobold):** percepção e rastreamento por odores.
-- **Impulso Anfíbio (Frog Shooter):** impulso explosivo das pernas e saltos velozes.
-- **Passo Sombrio (War Shadow):** movimentação mais silenciosa, transições rápidas de direção e aproveitamento de áreas escuras; **não é teletransporte literal**.
-- Melhorias incrementais de força, resistência, agilidade, destreza e capacidade de recuperação advindas de diversas derrotas de monstros; acumulam-se sem obrigatoriamente ganhar novos nomes.
+- **Impulso Anfíbio (Frog Shooter):** saltos e acelerações explosivas dos membros inferiores.
+- **Passo Sombrio (War Shadow):** deslocamento furtivo, transição rápida de trajetórias e uso de sombras; **não é teletransporte**.
+- Incrementos físicos permanentes específicos e cumulativos em força, resistência, reflexo, destreza etc. de caçadas anteriores (sem inventar números finais de Falna).
 
-## Combinação ofensiva comprovada
+### Monsterphilia — aquisições e efeitos expressamente narrados
+- **Silverback → Musculatura de Prata (NOVA PASSIVA).** Fibras musculares hiperdensas e resistentes, **contração explosiva**, potência de socos/joelhadas/projeções, absorção e distribuição de esforço e maior tolerância à sobrecarga de velocidade. Não é só +força genérica; foi obtida após o Silverback ser derrotado desarmado.
+- **Orc → Ossatura de Guerra (NOVA PASSIVA).** Ossos e articulações com resistência sobrenatural, melhor transmissão da força de impacto e menor risco de fraturas/lesões durante golpes e acelerações extremos. Obtida ao destruir a cabeça de um Orc com soco acelerado.
+- **Killer Ant → Carapaça Subdérmica (NOVA PASSIVA).** Reforço das camadas sob a pele, protegendo contra cortes e perfurações superficiais; não é invulnerabilidade nem blindagem absoluta.
+- **War Shadow → Passo Sombrio aprimorado.** Deslocamentos evasivos ainda mais silenciosos e difíceis de seguir (não teletransporte).
+- **Orc adicional → Ossatura de Guerra aprimorada.** Acúmulo de resistência estrutural.
+- **Kobold → Olfato Aguçado aprimorado.** Rastreio mais seletivo e leitura mais clara de odores.
+- **Goblin → Reflexos Predatórios aprimorados.** Reações defensivas mais velozes a ameaças inesperadas.
 
-**Passo Sombrio + Impulso Anfíbio + Solmani**, ou o par Impulso Anfíbio + Solmani, gerou aceleração extremamente alta. Rain matou War Shadows em combate desarmado com impactos que as partiram ao meio e, em duelo de regra restrita, derrubou Gardo inconsciente.
+A cena estabeleceu **12 monstros abatidos por Rain durante o incidente da Monsterphilia, incluindo o Silverback**. Os detalhes de aquisição destacados acima são os confirmados; outras vitórias rendem progressão específica segundo Devorar, mas não inventar retroativamente habilidades não narradas. **Cada nova vitória futura deve explicitar uma aquisição coerente**, seja nova ou melhoria individualizada.
 
-## Limites de continuidade
+## IV. Combinações e efeitos de sinergia
 
-- **Liaris Freese** de Rain e Bell é acelerador de crescimento ligado à força dos sentimentos e à determinação; não atribuir nível instantâneo sem Hestia atualizar Falna.
-- Magia de Rain permanece **I0** no último status registrado, sem feitiços próprios confirmados.
-- Só registrar novas aquisições após vitória e condição de gatilho compatíveis.
-- Nunca confundir ganho de Devorar com consumo, morte ou dano do adversário humano após vencer um desafio.
+**Passo Sombrio + Impulso Anfíbio + Solmani**: deslocamento e aceleração súbitos, com potência crescente na velocidade. **Musculatura de Prata + Ossatura de Guerra** protegem tecidos, ossos e articulações da força gerada; **Carapaça Subdérmica** aumenta proteção externa. **Reflexos Predatórios**, **Recuperação Instintiva** e **Olfato Aguçado** complementam percepção, recuperação e resposta corporal. **Twin Monster 10×** mantém o crescimento acelerado em todo momento; **Blessed by All Gods** mantém a sorte excepcional e **Liaris Freese** intensifica o desenvolvimento quando sustentado pela determinação/sentimentos de Rain.
+
+Esses poderes coexistem, mas **não são autorização para a narradora escolher movimentos ou ataques de Rain**. Só o usuário declara os buffs utilizados, movimentos concretos e intenções táticas; a narradora descreve resultado e aquisições automáticas consequentes.
+
+## V. Limites e atualizações futuras
+
+- Rain é **nível 2** (ascensão oficial pela Falna de Hestia); a última atualização numérica do nível 2 não foi mostrada após as muitas caçadas e a Monsterphilia. Seus atributos são **desconhecidos até Hestia medir**. Não anunciar nível 3 automático.
+- O último quadro de nível 2 iniciou com todos os parâmetros visíveis em I0, sem magia pessoal confirmada.
+- A aquisição de Devorar é permanente e automática; explicar de forma **concreta** o ganho em cada vitória significativa, jamais rebaixá-la a bônus vago.
+- Guardar separadamente: **mecânica real** (conhecida por Rain e pelo leitor), **o que cada NPC presenciou** e **o que esse NPC sabe**.
