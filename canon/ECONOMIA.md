@@ -83,3 +83,11 @@ Durante o incidente, o relato fechou **12 monstros abatidos por Rain**, entre el
 - **Segundo grupo de 12 Almirajs (19º), queimados em torrente de fogo:** 12 cristais caíram, **não recolhidos**.
 - **Total de cristais da expedição identificados: 21**, mas **só 3 confirmados no inventário**; os outros **18 ainda estão espalhados pelo chão** e podem ser perdidos se não forem recolhidos. Nada vendido, valores não cotados, **nenhum novo valis faturado**.
 - Todas as aquisições permanentes de Devorar independem de vender ou coletar os cristais.
+
+## Novo estado econômico — retorno da caçada de três dias (substitui o inventário antigo do 19º andar)
+
+Depois de três dias em frenesi, Rain contratou **19 aventureiros/suportes** para ajudar a transportar uma grande quantidade de pedras mágicas até Orario. Na Guilda, o valor **bruto aproximado** da carga foi avaliado em **20.000.000 valis**. A quantidade exata de cristais e o detalhamento por monstro não foram enumerados. **Não afirmar que ele tem 20 milhões líquidos ou que já vendeu cada lote, pois o pagamento final e o saldo líquido não foram narrados.** Custos/pagamentos dos 19 carregadores permanecem desconhecidos.
+
+Na Guilda Rain destruiu **dois pontos do piso ao realizar cabeçadas penitenciais (dogeza)**; Eina interrompeu a terceira. A Guilda pretende cobrar conserto da Familia Hestia; **valor ainda não estabelecido**. Isso se soma à antiga porta danificada da taverna, cujo custo final também não foi definido.
+
+**O inventário antigo** de 3 cristais carregados + 18 cristais no chão descrevia o INÍCIO da caçada e foi superado pela coleta/transporte posteriores; **não tratar essas 18 pedras como ainda esquecidas na Dungeon após o retorno**, nem duplicar seu valor. O resultado econômico válido é avaliação bruta aproximada de **20 milhões de valis**, não contabilidade final.
