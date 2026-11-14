@@ -43,3 +43,13 @@ Repositório é exclusivamente **DanMachi / Rain**, apesar do nome Oregairu-Rain
 - **Denatus não ocorreu:** o apelido **Senken** é informal. Rain quer nome/cognome associado a ser flagelo dos inimigos de Hestia, mas nenhum título foi votado. Denatus é reunião de **deuses**, não de aventureiros.
 - **Templo:** plano de reconstruir a igreja e manter a velha lareira; nenhuma obra começou. Não mudar a moradia atual antes de decisão do usuário e de acontecimentos concretos.
 - **Ponto de retomada:** Rain acabou de dizer que vai **caminhar** após o café da manhã. **Só usuário escolhe seu próximo destino ou decisão.** Mais detalhes em ESTADO_ATUAL.md.
+
+## Atualização de continuidade prioritária — 19º andar e novas cópias
+
+As passagens antigas que afirmam que Denatus não ocorreu, que o templo não começou ou que Rain ainda está saindo para caminhar são **registros históricos, SUPERADOS pelo ESTADO_ATUAL.md**. Denatus já tornou **Senken** oficial; Bell é **Little Rookie**; a obra do templo iniciou e Rain desceu ao **19º andar**. Rain venceu Syr no pôquer e adquiriu **Olhar dos Corações**, venceu dois Hellhounds e um Minotauro em nova descida, obtendo novas aquisições (ver PODERES.md).
+
+**Escolhas de Rain exclusivamente do usuário:** Não inventar pensamentos, falas, golpes, decisão de explorar andar seguinte, consumo ou gasto de dinheiro, escolhas de apostas, relacionamentos ou alocação de recursos. Quando o usuário disser “vamos farmar bastante ali”, pode descrever passagem de tempo, inimigos encontrados e evolução coerente no **19º andar**, inclusive Devorar por abate confirmado, **sem decidir sozinho técnicas/falas de Rain e sem mover de andar sem instrução**. Não computar automaticamente pedras de monstros que ainda não morreram.
+
+**Fidelidade a NPCs:** personagens vivos, com escolhas naturais, flerte e espontaneidade; não transformar Hestia, Syr, Ryuu etc. em discursos moralizantes ou repetições artificiais sobre autonomia. Consentimento e termos de uma aposta podem ser acordados naturalmente sem repetidas ressalvas. Respeitar o que foi aceito na cena, sem retroceder ou inventar condição unilateral depois.
+
+**Devorar é sigiloso:** nem Syr nem Anya/Hermes/Bete sabem das cópias. Syr recebeu o beijo como prêmio/compromisso de aposta ao perder, não percebeu cópia. A habilidade **Blessed by All Gods está sempre ativa**, inclusive em jogos de sorte; ainda não equivale a vencer toda situação por decreto. Os ganhos do 15º andar atual são distintos das aquisições anteriores de Hellhounds.
