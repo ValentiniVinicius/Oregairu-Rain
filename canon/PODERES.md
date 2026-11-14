@@ -1,4 +1,4 @@
-# Rain | Poderes, bênçãos e aquisições (estado atualizado até a competição com Anya e o convite de Syr)
+# Rain | Poderes, bênçãos e aquisições (estado atualizado até a incursão no 19º andar da Dungeon)
 
 Este documento é a referência prioritária sobre mecânicas. As três dádivas iniciais **estão ativas desde a chegada de Rain e não precisam ser reativadas pelo narrador**. Aquisições de Devorar coexistem com a Falna, sem substituir suas regras.
 
@@ -108,3 +108,29 @@ Na taverna **Senhora da Fertilidade**, Rain pronunciou o gatilho **“Vamos joga
 ## X. Estado de conhecimento atualizado
 
 Rain sabe de todas as aquisições. Hestia viu e atualizou as manifestações ígneas de sua Falna e sabe que ele desobedeceu à proibição de Dungeon. **Hermes não sabe da cópia de Astúcia do Trapaceiro; Anya não sabe de Instinto Felino; Bete não sabe de Solmani; Bell não sabe de Liaris Freese.** A astúcia copiada de Hermes melhora leitura de blefes e contradições, **não é infalível e não impõe vitória no pôquer**.
+
+## XI. Syr Flova — Olhar dos Corações (cópia por pôquer)
+
+Na **Senhora da Fertilidade**, Rain escolheu pôquer de cinco cartas, perguntou a Syr **“Vamos jogar o jogo? Se você aceitar, já estaremos apostando.”** Syr aceitou explicitamente. Houve uma conversa sobre a aposta extra: Rain propôs **se vencer, dar um beijo a Syr; se Syr vencer, entregar toda a renda de sua expedição à Dungeon no dia seguinte**. Inicialmente Syr tentou impor uma condição unilateral de poder recusar o beijo, que Rain contestou; ela **aceitou depois os termos sem a ressalva**. Para a continuidade, **a aposta válida é a última, mutuamente aceita**, sem inventar cláusula nova. Rain e Syr jogaram e Rain venceu. Ele mostrou **9♣ 9♦ 9♥ 9♠ A♠ (quadra de noves)**, obtida depois de conservar o par de noves e trocar K♠, 6♥ e 2♣. Syr revelou **Q♥ Q♣ Q♦ 7♣ 7♠ (full house de damas e setes)**. Ryuu confirmou vitória de Rain, e **Syr o beijou delicadamente nos lábios**, cumprindo a aposta.
+
+**Devorar → Olhar dos Corações**, cópia permanente obtida da aptidão aparente de **Syr Flova**: melhora a leitura de emoções profundas, desejos e vulnerabilidades afetivas por sinais sutis e sua combinação com **Astúcia do Trapaceiro** de Hermes. **Não é leitura mental, detecção infalível da verdade, compulsão sentimental nem Arcanum**. Syr conserva suas aptidões e **não sabe que Rain copiou nada**. Não revelar automaticamente outros segredos canônicos associados à identidade de Syr, que não foram descobertos por Rain.
+
+Na partida, **Blessed by All Gods** influenciou de modo notável e FAVORÁVEL a troca que completou a quadra. A bênção está sempre ativa (inclusive em pôquer), mas **não é vitória infalível em qualquer jogo**. **Astúcia do Trapaceiro** auxiliou Rain a perceber sutilezas no comportamento de Syr, sem lhe revelar cartas magicamente.
+
+## XII. Segunda incursão ígnea e Minotauro — novas aquisições no 15º andar
+
+Em nova ida à Dungeon, Rain partiu **sozinho** enquanto Bell e Lili saíram como equipe. No **15º andar** enfrentou **dois Hellhounds e um Minotauro**. Graças à resistência ígnea já adquirida, os Hellhounds foram derrotados com facilidade; Rain **derrubou o Minotauro e esmagou seu crânio**. Devorar concedeu **três aquisições novas e separadas**:
+
+1. **Hellhound → Pele da Fornalha.** Melhora cumulativa e permanente da defesa térmica contra chamas comuns e de monstros, particularmente danos moderados; **não invulnerabilidade ou imunidade total**.
+2. **Hellhound → Pulmões Infernais.** Maior volume e sustentação das chamas produzidas por **Respiração da Chama**, sem encantamentos.
+3. **Minotauro → Musculatura do Rei Touro.** **Passiva muscular extremamente poderosa, permanente**, separada da anterior Musculatura de Prata (Silverback). Aumenta substancialmente a **força física bruta** de membros e tronco, **torque para projeções/agarramentos**, **contração explosiva** e **pressão sustentada em grappling/judô**. Sinergia com Musculatura de Prata, Ossatura de Guerra, Solmani e crescimento permanente pelo Twin Monster. **Não é automaticamente força ilimitada nem nível acima do 3**.
+
+Rain recolheu os **três cristais** desses abates. **Ainda não foram vendidos ou precificados**. Passou pelos andares 16–17; rota pelo Goliath no 17º estava liberada; chegou ao **18º andar (zona segura), Rivira**, e depois entrou no **19º andar, Grande Floresta Labiríntica**. **Nada do encontro inicial do 19º andar foi derrotado ainda**: cinco Almirajs (com pequenas machadinhas) e um grande lagarto monstruoso surgiram; não conceder habilidades de criaturas vivas nem inventar cristais.
+
+## XIII. Estado atual das aquisições e sigilo
+
+**Cópias humanas/divinas confirmadas, cumulativas:** Liaris Freese (Bell), Chama do Lar (Hestia), Solmani (Bete), Vigor físico (Gardo), Astúcia do Trapaceiro (Hermes), Instinto Felino (Anya), **Olhar dos Corações (Syr)**. Oponentes conservam habilidades; o mecanismo permanece segredo.
+
+**Aquisições ígneas completas até agora:** Herança da Chama Infernal (Afinidade Ígnea + Respiração da Chama + Resistência Ígnea), Resistência Ígnea Aprimorada, Coração Ígneo, **Pele da Fornalha**, **Pulmões Infernais**. **Aquisições musculares:** Musculatura de Prata (Silverback) e **Musculatura do Rei Touro (Minotauro)**. Não confundir datas ou origens dos ganhos.
+
+**Próxima cena:** 19º andar, diante de cinco Almirajs e um lagarto monstruoso; intenção de Rain é **farmar bastante neste andar**. Todos os dons iniciais permanecem ligados sem comando. Evitar a narrativa decidir técnicas e movimentos específicos por Rain.
