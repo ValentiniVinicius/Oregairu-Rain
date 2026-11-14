@@ -1,4 +1,4 @@
-# Estado atual — Rain / DanMachi
+# Estado atual — Rain / DanMachi (consulte o bloco final prioritário)
 
 **Sincronizado em 13/11/2026.** A seção FINAL 'PRIORIDADE ABSOLUTA' prevalece sobre todos os pontos históricos anteriores. Registros de “ponto atual” mais antigos nos arquivos são **históricos e não devem ser retomados**.
 
@@ -53,3 +53,39 @@ As antigas seções “Ponto de retomada EXATO” e “CINCO Almirajs e lagarto 
 **Cena imediatamente seguinte:** ruídos mais graves, raízes e folhas estremecendo, quatro presenças pesadas aproximando-se de posições diferentes na floresta, atraídas pelo incêndio; inimigos **ainda não vistos/identificados com precisão**. Apenas Rain/usuário pode escolher os próximos movimentos.
 
 **Diretriz NOVA solicitada pelo usuário:** daqui para frente, cada sequência de farming deve ampliar **status, atributos e capacidade física**, com prioridade evidente para **AGILIDADE/VELOCIDADE**. Devorar pode criar passivas ou reforçar passivas existentes, e ganhos cumulativos de velocidade (arranque, deslocamento, reflexos, curvas, eficiência, sustentação de sprint) devem ser concretos. **Twin Monster 10× permanece ativo sempre**, acelerando adaptação, Excelia e aprendizado; **Blessed by All Gods ativo também**. Não inventar valores exatos de letra/número de Falna, pois a próxima atualização por Hestia ainda não ocorreu. **Lv oficial 3, poder real topo do Lv5**, que continuará evoluindo, não reduzir escala.
+
+# PRIORIDADE DE RETOMADA — Capítulo 19, igreja, banheiro, quarto dia (~12h18)
+
+**Este bloco é mais recente e prevalece sobre TODOS os "pontos atuais" antigos deste documento.**
+
+**CENA EXATA:** Rain está no **banheiro da antiga igreja da Familia Hestia**, sentado, sendo lavado com escova nas costas por **Bell Cranel**, que está preocupado e pensa que o irmão está profundamente ferido. Rain está com uma **cara de bunda**. **Hestia está do lado de fora, gargalhando**, tendo chamado Bell em vez de ela própria banhá-lo. Bell acabou de perguntar: **"Rain-san... Mas onde exatamente você está machucado? Não consigo encontrar nenhum ferimento!"**. Rain não respondeu ainda; só o usuário controla suas palavras, pensamentos e ações. Bell não percebeu que a declaração de ferimento era um pretexto de Rain para conseguir que Hestia lhe desse banho. Hestia percebeu a intenção e decidiu brincar.
+
+**EVENTOS IMEDIATAMENTE ANTERIORES:** Rain propôs estoicamente a Hestia: "Podemos conversar nus, deusa. Aumenta nosso poder de compreender um ao outro em 399 vezes...". **399× era piada**, não habilidade real. Hestia corou, recusou, disse que ambos permaneceriam vestidos e mandou Bell buscar comida. Após a conversa sobre Falna, Rain se declarou "profundamente ferido" e pediu a Hestia para dar-lhe banho; ela mandou Bell ajudá-lo. Não presumir que Rain se vestiu entre o ritual e o banho sem o usuário dizer.
+
+## Falna recém-atualizada por Hestia — dados confirmados
+
+Hestia realizou ritual canônico: Rain tirou a parte superior do uniforme, deusa perfurou próprio dedo e pingou uma gota de **ichor divino** nas costas; inscrições despertaram; ela copiou/leu a nova Falna e gritou/pulou de **êxtase, orgulho e incredulidade**. Bell testemunhou os resultados gerais. **NÍVEL OFICIAL: 3.**
+- **Força: S 999+**
+- **Resistência: S 999+**
+- **Destreza: S 999+**
+- **Agilidade: S 999+**, o atributo de evolução **mais extraordinária**.
+- **Magia: S 999+**
+
+**As inscrições apresentam inúmeras habilidades, refinos e marcas de crescimento, nem todas nomeadas individualmente.** Preserve os nomes concretamente narrados em canon/PODERES.md; **não invente dezenas de habilidades adicionais ou valores numéricos >999**. Os atributos superam a notação S999, conforme definido pelo usuário nesta ficção. **Rain já estava no topo de poder efetivo de nível 5 antes dos três dias de farm**; a caçada aumentou seus atributos, principalmente velocidade, sem avançar oficialmente de nível nem medir exatamente um novo nível efetivo. **Twin Monster (~10× taxa de crescimento) continuamente ativo, Devorar continuamente adquire/refina características por abate, Blessed by All Gods continuamente ativo.** Status se fortalece, não apenas lista de poderes.
+
+**Conhecimento:** **Hestia sabe** que o crescimento extremo resulta dos dons inatos de Rain e das capacidades assimiladas de **Bell (Liaris Freese)** e **Hestia (Chama do Lar)**. É conhecimento confirmado, não dedução pendente. **Bell não sabe que sua habilidade foi copiada**, e Hestia mantém o segredo na presença dele. A habilidade de Bell permanece com Bell; Hestia retém as próprias qualidades. Hestia e Rain se amam e dormem juntos, porém **não são namorados oficialmente**.
+
+## Últimos três dias e retorno a Orario
+
+Rain passou **três dias em frenesi de combate** na Grande Floresta Labiríntica, focado em matar monstros e acumular habilidades, Excelia, força e **agilidade**. Foi observado por aventureiros assustados com sua ferocidade e concentração. Depois de matar **mais dez monstros** gritou "AUUUUUUUUUU", percebeu o tempo decorrido e a preocupação da deusa. Retornou aos andares superiores, contratou **19 aventureiros/suportes para carregar grandes quantidades de cristais**. Guilda avaliou o lote em **aproximadamente 20 milhões de valis brutos**; custos de contratação, reparo do chão e saldo líquido NÃO foram quantificados. Não tratar 20 milhões como saldo em conta.
+
+No reencontro na Guilda, Hestia estava preocupada e furiosa. Rain deslizou de joelhos até ela e fez **dogeza**, ofereceu-se para ser surrado pelas mãos divinas, admitiu perder noção de tempo matando monstros fáceis. Hestia o golpeou com pequenos socos e depois o abraçou chorando. A deusa inicialmente **proibiu a Dungeon por três anos**; Rain gritou em japonês desculpas e prometeu **333 cabeçadas penitenciais**; fez **duas**, abrindo crateras no piso; **Eina o interrompeu ao gritar "san"**, impedindo a terceira; reparo será cobrado da Familia. Ele se levantou indiferente: **"Kaerō ka"**. Na caminhada para casa negociou três anos → pediu três horas → três meses → acordo final de **uma semana sem Dungeon**.
+
+**Reputação:** aventureiros que viram Rain como lutador assustador no 19º estranharam seu dogeza e comportamento carinhoso/submisso diante de Hestia. Um veterano observou **"Um cão jamais morderia a mão do próprio dono"** como metáfora da lealdade escolhida. Rain usa sua força brutalmente contra inimigos e mostra afeto à deusa; não reduzir a personalidade a dicotomia rígida ou inferir pensamentos que o usuário não deu.
+
+## Regras e economia imediatas
+
+- **Somente usuário controla Rain**. Não escrever falas, ações, decisões, pensamentos, gestos de vestir/despir ou razões ocultas que ele não indicou. NPCs e acontecimentos narrados são controlados pela assistente.
+- **Hestia** canonicamente expansiva, brincalhona, orgulhosa, ciumenta, amorosa; não são namorados formalizados.
+- **Cristais** da caçada foram transportados por equipe contratada; lote avaliado em **~20 milhões de valis brutos**; venda/valores líquidos e pagamentos finais não estabelecidos.
+- **Uma semana sem Dungeon**, decisão final negociada.
