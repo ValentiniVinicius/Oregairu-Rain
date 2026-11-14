@@ -1,8 +1,8 @@
 # Estado atual — Rain / DanMachi
 
-**Última sincronização: 13/11/2026.** Esta é a referência prioritária para continuar a webnovel. Registros de “ponto atual” mais antigos nos arquivos são **históricos e não devem ser retomados**.
+**Sincronizado em 13/11/2026.** A seção FINAL 'PRIORIDADE ABSOLUTA' prevalece sobre todos os pontos históricos anteriores. Registros de “ponto atual” mais antigos nos arquivos são **históricos e não devem ser retomados**.
 
-## Ponto de retomada EXATO — Capítulo 17
+## Ponto histórico anterior — Capítulo 17 (superado pela atualização mais recente)
 
 **Dungeon, Grande Floresta Labiríntica, 19º andar, ~11h38.** Rain, humano de 18 anos, **nível 3**, está **sozinho** e traz **três cristais** colhidos de dois Hellhounds e um Minotauro derrotados no 15º andar nesta expedição. Sua intenção recém-declarada pelo usuário é **farmar bastante neste 19º andar**, mas exigiu **salvar tudo no GitHub antes**. A última cena mostrou **cinco Almirajs** (coelhos monstruosos armados de pequenas machadinhas) e **um grande lagarto monstruoso**, ainda **vivos**, à frente de Rain na floresta. **Não há vitória/loot por esses seis monstros ainda**. Respeitar a agência de Rain: somente o usuário escolhe técnicas, falas, movimentos, o momento de encerrar farm ou mudar de andar. Pode avançar tempo e sumarizar uma caçada quando explicitamente autorizado por “vamos farmar bastante”, evitando escolhas de movimentos/técnicas que ele não deu.
 
@@ -41,3 +41,15 @@
 ## Escala de poder DEFINITIVA — estabelecida pelo usuário em 13/11/2026
 
 **Rain permanece oficialmente no NÍVEL 3 de Falna, mas sua força e capacidade efetiva de combate JÁ ESTÃO NO TOPO DO PATAMAR DO NÍVEL 5** (não apenas na média ou na base do nível 5). Isso é cânone desta webnovel por decisão expressa do usuário. A causa é o desenvolvimento acumulado por **Twin Monster (crescimento ~10× constantemente ativo)**, somado aos ganhos permanentes de **Devorar**, principalmente **Musculatura do Rei Touro, Musculatura de Prata, Ossatura de Guerra, Solmani** e demais habilidades. **O multiplicador 10× se refere à taxa de crescimento, não a 10× no dano instantâneo**. Comparação com topo do nível 5 não significa ascensão oficial, vitória garantida contra todo nível 5, nem invulnerabilidade; porém, o narrador **não pode retratar Rain como um nível 3 típico nem como nível 5 mediano**. Contra monstros comuns do 19º andar, sua superioridade deve ser muito nítida. Eventuais desafios reais dependem de circunstâncias, técnicas incomuns, desgaste, inimigos de escalão adequado ou outras limitações específicas. Esta atualização prevalece sobre quaisquer notas anteriores que digam apenas “aproximadamente equivalente a nível 5”.
+
+## PRIORIDADE ABSOLUTA — PONTO EXATO MAIS RECENTE, 19º ANDAR (~11h44)
+
+As antigas seções “Ponto de retomada EXATO” e “CINCO Almirajs e lagarto ainda vivos” abaixo são **históricas e superadas**.
+
+**Rain, sozinho, no 19º andar da Grande Floresta Labiríntica, logo APÓS produzir uma torrente circular de fogo infernal e matar uma segunda leva de 12 Almirajs.** A clareira apresenta marcas de queima, raízes fumegando e **12 cristais da nova leva**, além dos **5 cristais da primeira leva de Almirajs** e do **1 cristal do lagarto**, todos **no chão, ainda não recolhidos**. Rain ainda possui **3 cristais coletados no 15º andar** (dois Hellhounds e um Minotauro). Total de pedras identificadas na expedição: **21 se todas as pedras do 19º forem recolhidas**, mas **no inventário só há 3 confirmadas coletadas**. Não inventar venda, preço, retorno à superfície, coleta ou novos abates sem cena.
+
+**Abates confirmados nesta visita ao 19º andar:** 5 Almirajs iniciais + 1 lagarto monstruoso + 12 Almirajs queimados = **18 monstros**. Ganhos: primeiro grupo de Almirajs → Tendões de Mercúrio, Impulso Leporino, Passo Relâmpago, Reflexo de Evasão, Aterrissagem Perfeita; lagarto → Escamas de Guerra; segundo grupo de 12 → versões **reforçadas** das cinco passivas anteriores, MAIS **Passada de Caça, Curva Predatória, Arranque Instantâneo, Ritmo de Perseguição e Olhos de Movimento**. Como a narração nomeou 10 resultados específicos para 12 criaturas, os 2 resultados adicionais são reforços de agilidade **sem nome distinto estabelecido**; não inventar duas passivas nomeadas retroativamente.
+
+**Cena imediatamente seguinte:** ruídos mais graves, raízes e folhas estremecendo, quatro presenças pesadas aproximando-se de posições diferentes na floresta, atraídas pelo incêndio; inimigos **ainda não vistos/identificados com precisão**. Apenas Rain/usuário pode escolher os próximos movimentos.
+
+**Diretriz NOVA solicitada pelo usuário:** daqui para frente, cada sequência de farming deve ampliar **status, atributos e capacidade física**, com prioridade evidente para **AGILIDADE/VELOCIDADE**. Devorar pode criar passivas ou reforçar passivas existentes, e ganhos cumulativos de velocidade (arranque, deslocamento, reflexos, curvas, eficiência, sustentação de sprint) devem ser concretos. **Twin Monster 10× permanece ativo sempre**, acelerando adaptação, Excelia e aprendizado; **Blessed by All Gods ativo também**. Não inventar valores exatos de letra/número de Falna, pois a próxima atualização por Hestia ainda não ocorreu. **Lv oficial 3, poder real topo do Lv5**, que continuará evoluindo, não reduzir escala.
