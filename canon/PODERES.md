@@ -138,3 +138,35 @@ Rain recolheu os **três cristais** desses abates. **Ainda não foram vendidos o
 ## Escala de poder DEFINITIVA — estabelecida pelo usuário em 13/11/2026
 
 **Rain permanece oficialmente no NÍVEL 3 de Falna, mas sua força e capacidade efetiva de combate JÁ ESTÃO NO TOPO DO PATAMAR DO NÍVEL 5** (não apenas na média ou na base do nível 5). Isso é cânone desta webnovel por decisão expressa do usuário. A causa é o desenvolvimento acumulado por **Twin Monster (crescimento ~10× constantemente ativo)**, somado aos ganhos permanentes de **Devorar**, principalmente **Musculatura do Rei Touro, Musculatura de Prata, Ossatura de Guerra, Solmani** e demais habilidades. **O multiplicador 10× se refere à taxa de crescimento, não a 10× no dano instantâneo**. Comparação com topo do nível 5 não significa ascensão oficial, vitória garantida contra todo nível 5, nem invulnerabilidade; porém, o narrador **não pode retratar Rain como um nível 3 típico nem como nível 5 mediano**. Contra monstros comuns do 19º andar, sua superioridade deve ser muito nítida. Eventuais desafios reais dependem de circunstâncias, técnicas incomuns, desgaste, inimigos de escalão adequado ou outras limitações específicas. Esta atualização prevalece sobre quaisquer notas anteriores que digam apenas “aproximadamente equivalente a nível 5”.
+
+## XIV. Farm no 19º andar — velocidade, precisão e calor infernal
+
+### Primeira leva: cinco Almirajs — cinco aquisições permanentes
+1. **Tendões de Mercúrio:** mais elasticidade e capacidade de acumular/liberar energia elástica em arrancadas.
+2. **Impulso Leporino:** maior potência de pernas em saltos e acelerações súbitas.
+3. **Passo Relâmpago:** menor perda de velocidade e latência em mudanças de direção.
+4. **Reflexo de Evasão:** melhora neuromuscular reativa durante deslocamentos rápidos.
+5. **Aterrissagem Perfeita:** absorção de impacto e retorno ao impulso após pousos/quedas.
+
+### Lagarto monstruoso — uma aquisição
+**Escamas de Guerra:** reforço permanente de tecido/pele contra impacto, corte e arranhões, em sinergia com **Carapaça Subdérmica + Ossatura de Guerra**. O monstro foi derrotado por **um único soco preciso**: Rain apareceu à sua frente num instante e concentrou força colossal no ponto de impacto, abrindo rombo no peito sem destruir amplamente o entorno. A técnica é fruto da perícia marcial do protagonista; não substituir automaticamente por nova passiva de concentração de força.
+
+### Segunda leva: doze Almirajs, mortos pela torrente de fogo
+Rain provocou os inimigos em voz alta e **girou, liberando torrente circular de fogo infernal**, levando ao abate confirmado de **12 Almirajs**. Efeitos declarados:
+- **Tendões de Mercúrio reforçados:** restituição de energia ainda mais eficiente.
+- **Impulso Leporino reforçado:** arrancadas/saltos mais potentes.
+- **Passo Relâmpago reforçado:** menos perda de velocidade na virada.
+- **Reflexo de Evasão reforçado:** reação corporal aprimorada.
+- **Aterrissagem Perfeita reforçada:** pouso e retomada mais eficientes.
+- **Passada de Caça (nova):** melhor sustentação da velocidade em trechos longos.
+- **Curva Predatória (nova):** controle de curvas agressivas em alta velocidade.
+- **Arranque Instantâneo (nova):** menor intervalo de resposta entre intenção e aceleração.
+- **Ritmo de Perseguição (nova):** movimentos encadeados ficam progressivamente mais fluidos.
+- **Olhos de Movimento (nova):** leitura melhorada de trajetória de alvos rápidos.
+- **Dois abates restantes:** para respeitar a regra “uma aquisição por monstro” sem inventar nomes não narrados, contabilizar como **dois reforços cumulativos adicionais de atributos ligados à agilidade e velocidade**, cujos nomes/valores individuais **não foram fixados**.
+
+**Total de 19º andar até aqui: 18 monstros confirmados** (5 Almirajs + 1 lagarto + 12 Almirajs). A primeira leva deixou **5 cristais no chão**, o lagarto **1**, a segunda leva **12**, somando **18 cristais ainda não recolhidos**. Rain carrega **3 outros cristais colhidos no 15º**, total potencial de 21 se coletar os 18. Não inventar coleta.
+
+### Regra de progressão NOVA — prioridade para AGILIDADE
+
+**Pedido expresso do usuário: “A partir de agora... vou receber mais fortalecimento de status, principalmente de velocidade.”** Em cada farm relevante, além de Devorar, o efeito de **Twin Monster ~10× (sempre ativo)** deve acelerar REALMENTE ganho de Excelia e aprendizagem motora, **com predominância no atributo AGILIDADE** e capacidades associadas (força explosiva, percepção, coordenação, reação, curvas, controle de frenagem, sustentação). **Não limitar progressão a aumento qualitativo de nomes**; mostrar evolução física objetiva em cenas subsequentes. **Sem inventar valores numéricos da Falna enquanto Hestia não atualizar as inscrições**. Status oficial **Lv3**, capacidade real já **topo do Lv5** antes desse ciclo; ganhos são acumulativos e podem aumentar a escala. Blessed by All Gods e demais passivas permanecem ativas. Não transformar 10× crescimento em 10× dano instantâneo.
