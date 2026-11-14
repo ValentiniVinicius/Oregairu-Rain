@@ -56,3 +56,12 @@ Durante o incidente, o relato fechou **12 monstros abatidos por Rain**, entre el
 ### Lili e compromissos
 - A remuneração discutida quando Lili foi inicialmente contratada como suporte: **40% para ela, 60% para Rain/Bell juntos**, possibilidade futura 50/50 por mérito. Não houve prova de pagamento dessa divisão referente à horda; não inventar transferência.
 - **Lili foi expulsa da Familia Soma**, sem renda e sem moradia fixa. Ficou **temporariamente na igreja**, mas não ingressou formalmente na Familia Hestia. Não lançar despesas futuras como feitas.
+
+## Lançamentos posteriores — incursão solo e alfaiataria
+
+- **Venda de cristais na Guilda após expedição ao andar 15:** **118.700 valis** por lote que inclui três Hellhounds e outras pedras mágicas sem contagem específica.
+- **Curandeira Mirel (Familia Dian Cecht):** **15.000 valis** por magia **Sanatio**, que curou queimaduras; não curou a ressaca.
+- **Alfaiataria Marten (mestre Marten, aprendiz Elsa):** **64.000 valis pagos integralmente** por **dois uniformes/trajes de combate** reforçados, flexíveis, azul e branco, bordado de lareira nas costas e no peito. Um entregue imediatamente; outro previsto para o dia seguinte, mas a retirada não foi mostrada.
+- **Resultado líquido apenas dessas três transações: +39.700 valis** (118.700 - 15.000 - 64.000). **Não é o saldo total de Rain nem da Familia.** A tentativa de oferecer 10.000 valis para Eina guardar silêncio foi recusada; **não houve gasto de 10.000 valis**.
+- **Obra do templo:** projeto desenvolvido com arquiteto anão **Bram** e **obra iniciada** (reforço de fundações e primeiras colunas), preservando antiga lareira. **Custos da construção, parcelas, pagamentos e saldo remanescente não foram fixados**. A fase descrita ocorreu ao longo de aproximadamente dez dias, antes do Denatus.
+- **Taverna:** Rain comprou cerveja na disputa com Anya. Preço não definido. **Não inventar valor**.
