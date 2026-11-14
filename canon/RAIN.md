@@ -50,7 +50,7 @@ Hestia ficou chocada com a velocidade do crescimento. Esses são **valores de um
 
 ## Apelido
 
-**War Dog / Cão de Guerra / 戦犬 (Senken)**: surgido informalmente com um anão, tornou-se **apelido popular entre aventureiros e guardas durante a Monsterphilia** após a caçada de 12 monstros. **NÃO é epíteto oficial concedido em Denatus**.
+**War Dog / Cão de Guerra / 戦犬 (Senken)**: surgido informalmente com um anão, tornou-se **apelido popular entre aventureiros e guardas durante a Monsterphilia** após a caçada de 12 monstros. **Histórico:** foi apelido popular antes do Denatus; **posteriormente tornou-se epíteto oficial** (ver atualização posterior).
 
 ## Recursos e moradia
 
@@ -104,3 +104,14 @@ Rain veio de um mundo **tecnologicamente mais avançado**, onde uma divindade o 
 ### Novo projeto da Familia
 - Rain propôs **reconstruir a igreja como templo de inspiração grega**, de nome **家庭と炉火と家族の女神ヘスティアの神殿** (*Katei to roba to kazoku no megami Hestia no shinden*), "Templo de Hestia, Deusa do Lar, do Fogo e da Família".
 - Preservar a lareira antiga. Família estuda desenhos e orçamento; **obra não iniciada**. Recursos citados: **3.000.000 valis avaliados em cristais** da horda e **500.000 valis de indenização** cobrada/recebida da Familia Ganesha; **saldo líquido preciso não calculado**.
+
+## Atualização posterior — fogo, equipamentos e Denatus
+
+- **Nível atual: 3**. Hestia atualizou sua Falna após a expedição secreta ao **15º andar**, confirmando crescimento e as manifestações ígneas; não estabeleceu novos valores numéricos ou ascensão ao nível 4.
+- **Novos poderes:** Hellhound 1: **Herança da Chama Infernal (Afinidade Ígnea + Respiração da Chama sem encantamento + Resistência Ígnea)**; Hellhound 2: **Resistência Ígnea Aprimorada**; Hellhound 3: **Coração Ígneo**. **Atenção: sofreu queimaduras reais, curadas posteriormente**, logo não era invulnerável ao fogo.
+- **Cópias sociais recentes:** **Astúcia do Trapaceiro (Hermes)** melhora leitura de blefes, contradições e improviso estratégico; **Instinto Felino (Anya Fromel)** melhora equilíbrio, mudanças de direção e orientação em saltos/quedas. Ambas permanentes, adquiridas em jogos com aceite e vitória. **Hermes e Anya ignoram a cópia**.
+- **Equipamento pessoal:** encomendou e pagou **64.000 valis por DOIS trajes de combate personalizados** na **Alfaiataria Marten**, atendido pelo mestre **Marten** e aprendiz **Elsa**. Tecidos reforçados, flexibilidade total para combate desarmado, cores **azul e branco** de Hestia; **grande lareira bordada nas costas e símbolo pequeno no lado esquerdo do peito**. O primeiro estava pronto naquele dia, foi vestido imediatamente; o segundo seria retirado no dia seguinte, **retirada não narrada**. Rain deixou as roupas antigas queimadas na alfaiataria.
+- **Denatus já ocorreu:** título oficial concedido **戦犬 — Senken (Cão de Guerra)** por esmagadora maioria. A sugestão de Rain transmitida por Hestia, **“Flagelo dos inimigos de Hestia-sama”**, recebeu **apenas dois votos: Hestia e Hermes**. Bell recebeu **Little Rookie**.
+- **Templo:** arquiteto anão **Bram** contratado/consultado, reforma da antiga igreja começou; lareira preservada, colunas inspiradas nos templos gregos, quartos adicionais, sala comum e treinamento. Cerca de dez dias de obra transcorreram antes do Denatus; fundações reforçadas e primeiras colunas iniciadas. **Não narrar a obra como concluída ou orçamento final fixado.** Hestia reduziu turnos do trabalho na barraca, sem deixar inteiramente o emprego.
+- **Lili:** hóspede provisória, **não membro oficial**; Rain recusou comer a comida preparada por ela e disse diretamente que não a perdoará por colocar sua vida e a de Bell em risco e roubar Bell, e que **fingirá que ela não existe**, embora Bell e Hestia possam ser amigos dela.
+- **Cena em andamento:** Rain está na **Senhora da Fertilidade**, após vencer Anya numa corrida de beber cerveja e copiar Instinto Felino; Syr propôs jogos de perguntas ou cartas. Rain acabou de escolher: **“Poker então.”** Não narrar ações/falas ou apostas adicionais por ele.
