@@ -65,3 +65,12 @@ Durante o incidente, o relato fechou **12 monstros abatidos por Rain**, entre el
 - **Resultado líquido apenas dessas três transações: +39.700 valis** (118.700 - 15.000 - 64.000). **Não é o saldo total de Rain nem da Familia.** A tentativa de oferecer 10.000 valis para Eina guardar silêncio foi recusada; **não houve gasto de 10.000 valis**.
 - **Obra do templo:** projeto desenvolvido com arquiteto anão **Bram** e **obra iniciada** (reforço de fundações e primeiras colunas), preservando antiga lareira. **Custos da construção, parcelas, pagamentos e saldo remanescente não foram fixados**. A fase descrita ocorreu ao longo de aproximadamente dez dias, antes do Denatus.
 - **Taverna:** Rain comprou cerveja na disputa com Anya. Preço não definido. **Não inventar valor**.
+
+## Atualização posterior — apostas, presentes, cristais ainda não vendidos
+
+- **Pôquer de Rain com Syr:** aposta **contingente e não monetária realizada**: se Rain vencesse, beijo; se Syr vencesse, Rain daria a ela toda sua renda da Dungeon no dia seguinte. Rain venceu com quadra, Syr perdeu com full house, e **deu um beijo como combinado**. **Rain não deve dinheiro de Dungeon a Syr** pelo resultado.
+- **Senhora da Fertilidade:** ao saber que Hestia defendera seu título, Rain deixou **um saco de moedas de ouro para pagar a conta e dar gorjetas para todas**, mandando que contassem entre si. A quantia não foi narrada. **A porta foi destruída pela aceleração de Rain ao sair**; Mia afirmou que usaria as moedas primeiro para o conserto, sem contabilidade do gasto/valor final. Não inventar valor de reparação nem gorjetas recebidas.
+- **Presentes para Hestia:** Rain comprou **um buquê, uma caixa de chocolate e óleo de massagem**. **Preços não informados**. Foram entregues a Hestia e utilizados na noite romântica.
+- **Segunda expedição solo:** no **15º andar**, Rain matou **dois Hellhounds e um Minotauro**, recolhendo **três cristais mágicos**, carregados para Rivira e para a Grande Floresta Labiríntica (19º andar). **Não foram vendidos, avaliados nem somados ao caixa**; nenhum valor deve ser estimado como recebido.
+- Em Rivira, uma suporte independente chamada Neria ofereceu serviços e foi recusada. **Nenhuma contratação ou pagamento**. Comerciante Doran pediu preço alto por mochila, mas **Rain não comprou uma**.
+- **Reforma em andamento**, não encerrada. Não há pagamentos detalhados da obra fixados. **Saldo total de Rain e Familia permanece incerto**.
