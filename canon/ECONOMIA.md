@@ -91,3 +91,15 @@ Depois de três dias em frenesi, Rain contratou **19 aventureiros/suportes** par
 Na Guilda Rain destruiu **dois pontos do piso ao realizar cabeçadas penitenciais (dogeza)**; Eina interrompeu a terceira. A Guilda pretende cobrar conserto da Familia Hestia; **valor ainda não estabelecido**. Isso se soma à antiga porta danificada da taverna, cujo custo final também não foi definido.
 
 **O inventário antigo** de 3 cristais carregados + 18 cristais no chão descrevia o INÍCIO da caçada e foi superado pela coleta/transporte posteriores; **não tratar essas 18 pedras como ainda esquecidas na Dungeon após o retorno**, nem duplicar seu valor. O resultado econômico válido é avaliação bruta aproximada de **20 milhões de valis**, não contabilidade final.
+
+## PRIORIDADE ABSOLUTA — Expedição do 23º andar e obras (14/11/2026)
+
+**Expedição mais recente:** no 23º andar, Rain abateu sozinho numerosos monstros furtivos e contratou transportadores por acordo de **20% do resultado**. Entre eles Bronn e companheiros; chama-se apoio logístico **temporário**, não novo vínculo permanente. A Guilda avaliou os cristais e materiais em **30.000.000 valis brutos** e registrou divisão: **6.000.000 valis (20%) para o conjunto dos carregadores**, **24.000.000 valis (80%) para Rain**, conforme narrativa do Capítulo 26. **Não inventar número de carregadores, divisão individual, extrato bancário consolidado, impostos ou gastos subsequentes.** O valor de 24m foi comunicado formalmente à Familia Hestia e gerou reação eufórica de Hestia. Estabelecido como pagamento/parte registrada, sem afirmar que ela já consumiu o dinheiro em obras.
+
+**Expedição anterior de três dias:** lote de **aproximadamente 20.000.000 valis BRUTOS**, transportado por 19 suportes; pagamentos líquidos desses 19 e saldo final não estabelecidos. **NÃO somar 20m brutos + 24m como saldo líquido seguro**, já que valores da expedição anterior e gastos carecem de fechamento.
+
+**Obras:** Rain encomendou com Bram expansão da igreja para **templo grego em mármore branco**, com lareira central preservada, biblioteca, banho, quartos e **grande janela do quarto compartilhado Rain/Hestia**; **estátua de Hestia surpresa** ainda secreta. Referência de teto informal de até ~20m em verba projetada, mas **nenhum custo total contratado/quitado estabelecido**, não deduzir despesas sem cena.
+
+**Responsabilidades externas:** dano ao piso da Guilda por dogeza ainda a cobrar (valor desconhecido); caso Apollo envolve revisão de sanções e apuração de danos a terceiros e às mensageiras, valores não estabelecidos. A mansão de Apollo foi destruída, mas **não foi fixada obrigação de indenizar seu valor integral**. Não criar dívida adicional sem sentença ou cena.
+
+**Suporte fixa Mira Voss:** Rain considerou contratação, mas **recusou/desistiu**. **Nenhum contrato ou pagamento** devido a Mira em cena.
