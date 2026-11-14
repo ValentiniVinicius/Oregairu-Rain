@@ -1,4 +1,4 @@
-# Rain | Poderes, bênçãos e aquisições (estado atualizado após o jogo com Hermes)
+# Rain | Poderes, bênçãos e aquisições (estado atualizado até a competição com Anya e o convite de Syr)
 
 Este documento é a referência prioritária sobre mecânicas. As três dádivas iniciais **estão ativas desde a chegada de Rain e não precisam ser reativadas pelo narrador**. Aquisições de Devorar coexistem com a Falna, sem substituir suas regras.
 
@@ -84,3 +84,27 @@ Esses poderes coexistem, mas **não são autorização para a narradora escolher
 - **Twin Monster 10× e Blessed by All Gods nunca se desligam**; respeitar crescimento acumulado mesmo fora da Dungeon.
 - Cada derrota de monstro gera aquisição concreta de Devorar; vitória sobre pessoa/divindade exige pacto consentido e resultado favorável. Empate não gera cópia.
 - Guardar separadamente mecânica real, observação externa e conhecimento de cada NPC: **Bete não sabe sobre Solmani; Bell não sabe sobre Liaris Freese copiada; Hermes não sabe sobre Astúcia do Trapaceiro**.
+
+## VIII. Nova expedição: Hellhounds, fogo inato (andar 15)
+
+Após dizer a Hestia que sairia para caminhar, Rain desobedeceu a proibição de Dungeon e enfrentou **três Hellhounds no 15º andar**. Avançou deliberadamente pelas chamas, sofreu queimaduras reais (mais tarde curadas pela magia de Mirel) e derrotou os três em sequência. **Devorar** conferiu uma aquisição concreta por criatura:
+
+1. **Hellhound 1 → Herança da Chama Infernal** (aquisição composta): **Afinidade Ígnea**, fogo que responde naturalmente à energia mágica de Rain; **Respiração da Chama**, gerar/manipular chamas como extensão natural da respiração, **sem encantamento nem recitação**; **Resistência Ígnea**, proteção sobrenatural a calor e fogo, que NÃO é invulnerabilidade.
+2. **Hellhound 2 → Resistência Ígnea Aprimorada:** defesa ainda maior contra calor e chamas, particularmente de baixa intensidade, **não imunidade absoluta**.
+3. **Hellhound 3 → Coração Ígneo:** produção e circulação mais eficientes da energia do fogo, aumentando sustentação e reduzindo gasto para produzir/manipular chamas.
+
+Essas capacidades são **permanentes**, com sinergia com magia de fogo. Não apagam queimaduras retroativamente e não concedem Arcanum. A Falna de Rain revelou novos efeitos ígneos a Hestia após a expedição. **Hestia sabe que existem aptidões ígneas e suspeitou corretamente dos Hellhounds, mas Rain não admitiu em detalhes que sofreu queimaduras e procurou curandeira**. Não usar “imune ao fogo”.
+
+## IX. Nova cópia de pessoa: Anya Fromel — Instinto Felino
+
+Na taverna **Senhora da Fertilidade**, Rain pronunciou o gatilho **“Vamos jogar um jogo?”** e propôs a Anya uma corrida para terminar primeiro uma caneca de cerveja, paga por ele. Anya **aceitou explicitamente**; Syr arbitrou e estabeleceu não derramar a bebida de propósito. Rain ganhou por uma pequena margem, graças à habilidade de beber rápido adquirida em sua vida anterior. **Devorar copiou de Anya a passiva Instinto Felino**:
+- equilíbrio corporal excepcional;
+- precisão na mudança de direção;
+- orientação instintiva em saltos e quedas;
+- sinergia com Passo Sombrio e Impulso Anfíbio.
+É uma **cópia ajustada às capacidades de Rain**, não transfere a força ou o nível total de Anya. **Anya conserva a habilidade e não sabe que foi copiada**. Ela apenas sabe que perdeu a competição.
+**Nova interação ainda em aberto:** Syr ofereceu jogo de perguntas ou cartas; Rain escolheu **“Poker então.”** A partida de pôquer ainda NÃO teve regras/acordo de vitória/resultado narrados. Não ativar cópia de Syr sem o gatilho válido, o aceite e uma vitória real.
+
+## X. Estado de conhecimento atualizado
+
+Rain sabe de todas as aquisições. Hestia viu e atualizou as manifestações ígneas de sua Falna e sabe que ele desobedeceu à proibição de Dungeon. **Hermes não sabe da cópia de Astúcia do Trapaceiro; Anya não sabe de Instinto Felino; Bete não sabe de Solmani; Bell não sabe de Liaris Freese.** A astúcia copiada de Hermes melhora leitura de blefes e contradições, **não é infalível e não impõe vitória no pôquer**.
