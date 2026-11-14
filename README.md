@@ -1,22 +1,22 @@
 # Oregairu-Rain | Crônica de Rain em DanMachi
 
-Repositório canônico da **webnovel interativa de Rain**, ambientada em **DanMachi / Orario**. Nome histórico do repositório mantido, embora a ficção seja DanMachi.
+História interativa de **Rain** em **DanMachi / Orario**, guardada neste repositório histórico (*Oregairu-Rain* é apenas o nome herdado).
 
-## Para retomar
-1. [ESTADO_ATUAL.md](ESTADO_ATUAL.md) — **posição narrativa atualizada e spoilers mais recentes**.
-2. [REGRAS_DE_NARRACAO.md](REGRAS_DE_NARRACAO.md) — usuário controla Rain.
-3. [canon/RAIN.md](canon/RAIN.md) — ficha, evolução e equipamento.
-4. [canon/PODERES.md](canon/PODERES.md) — regras de Devorar, dons e aquisições.
-5. [canon/PERSONAGENS.md](canon/PERSONAGENS.md) — relações e limites do conhecimento.
-6. [canon/ECONOMIA.md](canon/ECONOMIA.md) — receitas, despesas e templo.
-7. [historia/LINHA_DO_TEMPO.md](historia/LINHA_DO_TEMPO.md) — cronologia.
+## Ordem de leitura
+1. [ESTADO_ATUAL.md](ESTADO_ATUAL.md) — **ponto exato mais recente** e estado da partida.
+2. [REGRAS_DE_NARRACAO.md](REGRAS_DE_NARRACAO.md) — usuário controla Rain EXCLUSIVAMENTE.
+3. [canon/RAIN.md](canon/RAIN.md) — ficha, relações, títulos e equipamentos.
+4. [canon/PODERES.md](canon/PODERES.md) — dons, aquisições de Devorar e sinergias.
+5. [canon/PERSONAGENS.md](canon/PERSONAGENS.md) — NPCs, personalidade, sigilo e conhecimento.
+6. [canon/ECONOMIA.md](canon/ECONOMIA.md) — dinheiro, despesas e recursos.
+7. [historia/LINHA_DO_TEMPO.md](historia/LINHA_DO_TEMPO.md) — cronologia detalhada.
 
-## Ponto atual | 13/11/2026
+## Ponto atual (13/11/2026)
 
-**Senhora da Fertilidade, fim de tarde.** Rain (**nível 3**) venceu **Anya** em jogo de beber cerveja e **Devorar copiou Instinto Felino**. **Syr** ofereceu um jogo de perguntas ou cartas; a última fala de Rain foi **“Poker então.”** **Aguarda reação de Syr.** Não decidir sua estratégia nem sua próxima jogada.
+**Capítulo 17, 19º andar da Dungeon, Grande Floresta Labiríntica, ~11h38.** Rain, **nível 3**, está **sozinho**, com **três cristais mágicos** de uma expedição iniciada no 15º andar, diante de **cinco Almirajs e um grande lagarto monstruoso ainda vivos**. Usuário quer **farmar bastante nesse andar** após salvar o estado no GitHub. Não inventar ataques/falas/escolhas de Rain ou loot dos monstros ainda vivos.
 
-**Novidades essenciais:** copiou **Astúcia do Trapaceiro** de Hermes (percepção de blefes/contradições, sem infalibilidade); no **andar 15** absorveu de três **Hellhounds** **Herança da Chama Infernal** (Afinidade Ígnea, Respiração da Chama sem encantamento, Resistência Ígnea), **Resistência Ígnea Aprimorada** e **Coração Ígneo**. Foi queimado, curado pela curandeira Mirel por 15.000 valis. Cristais renderam 118.700 valis. Adquiriu **DOIS trajes de combate azul e branco com símbolo da lareira de Hestia**, na Alfaiataria Marten, por **64.000 valis**; primeiro entregue, segundo encomendado. Variação líquida dessas transações: **+39.700 valis**, não saldo geral.
+**Novas conquistas:** em jogo consentido de **pôquer com Syr**, Rain venceu com quadra de noves contra full house, recebeu beijo de Syr e copiou **Olhar dos Corações**. Já tinha **Astúcia do Trapaceiro (Hermes)** e **Instinto Felino (Anya)**. Na expedição atual derrotou **dois Hellhounds → Pele da Fornalha e Pulmões Infernais**; **um Minotauro → Musculatura do Rei Touro**, aumento excepcional de força muscular e torque. São ganhos adicionais aos efeitos anteriores de três Hellhounds (Respiração da Chama e resistência ígnea) e Silverback (Musculatura de Prata).
 
-O **templo grego de Hestia está em construção inicial**, com arquiteto Bram e lareira antiga preservada. **Denatus tornou oficial o epíteto 戦犬/Senken (“Cão de Guerra”)**; a proposta de Hestia **“Flagelo dos inimigos de Hestia-sama”** recebeu somente os votos de Hestia e Hermes. Bell nível 2 recebeu **Little Rookie**. Bell e Lili estão na Torre Babel; Hestia no Denatus; Lili ainda é apenas hóspede, e Rain não a perdoou.
+**Fatos importantes:** Rain tem dois trajes de combate azul/branco de 64.000 valis, com **símbolo bordado de lareira** (um entregue, outro sem retirada confirmada). **Hestia defendeu no Denatus o título desejado por Rain** (“Flagelo dos Inimigos de Hestia-sama”), com 2 votos (ela e Hermes); título oficial é **Senken, Cão de Guerra** e Bell é **Little Rookie**. Rain soube, emocionou-se, comprou flores/chocolates/óleo de massagem, fez uma massagem em Hestia, trocaram declarações de amor e dormiram abraçados. **Templo de Hestia em construção**, não concluído. Rain ainda **não perdoou Lili**, que continua hóspede provisória; Bell e Lili começaram expedições juntos.
 
-**Rain pertence somente ao usuário.** Não inventar suas falas, pensamentos, ações, apostas ou escolhas. Twin Monster (~10× crescimento) e Blessed by All Gods estão sempre ativos. Devorar é permanente e só copia de pessoa após convite-gatilho, aceite e vitória.
+**Dons SEMPRE ativos:** Devorar, Twin Monster (~10× crescimento), Blessed by All Gods (sorte/favor). Cópias de jogos são secretas: oponentes retêm a habilidade e não sabem da cópia. **Somente o usuário determina as falas, pensamentos e ações de Rain.**
