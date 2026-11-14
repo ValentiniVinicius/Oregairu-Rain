@@ -74,3 +74,12 @@ Durante o incidente, o relato fechou **12 monstros abatidos por Rain**, entre el
 - **Segunda expedição solo:** no **15º andar**, Rain matou **dois Hellhounds e um Minotauro**, recolhendo **três cristais mágicos**, carregados para Rivira e para a Grande Floresta Labiríntica (19º andar). **Não foram vendidos, avaliados nem somados ao caixa**; nenhum valor deve ser estimado como recebido.
 - Em Rivira, uma suporte independente chamada Neria ofereceu serviços e foi recusada. **Nenhuma contratação ou pagamento**. Comerciante Doran pediu preço alto por mochila, mas **Rain não comprou uma**.
 - **Reforma em andamento**, não encerrada. Não há pagamentos detalhados da obra fixados. **Saldo total de Rain e Familia permanece incerto**.
+
+## Inventário de cristais — situação no 19º andar (ainda sem venda)
+
+- **Três cristais coletados no 15º andar:** 2 Hellhounds + 1 Minotauro; Rain os carrega.
+- **Primeiro grupo de 5 Almirajs (19º):** 5 cristais caíram na clareira, **não recolhidos**.
+- **Um lagarto monstruoso (19º):** 1 cristal caiu, **não recolhido**.
+- **Segundo grupo de 12 Almirajs (19º), queimados em torrente de fogo:** 12 cristais caíram, **não recolhidos**.
+- **Total de cristais da expedição identificados: 21**, mas **só 3 confirmados no inventário**; os outros **18 ainda estão espalhados pelo chão** e podem ser perdidos se não forem recolhidos. Nada vendido, valores não cotados, **nenhum novo valis faturado**.
+- Todas as aquisições permanentes de Devorar independem de vender ou coletar os cristais.
