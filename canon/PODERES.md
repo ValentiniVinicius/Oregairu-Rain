@@ -187,3 +187,28 @@ Rain provocou os inimigos em voz alta e **girou, liberando torrente circular de 
 - Cópias por jogos/consentimento: **Liaris Freese (Bell), Chama do Lar (Hestia), Solmani (Bete), Vigor Físico (Gardo), Astúcia do Trapaceiro (Hermes), Instinto Felino (Anya), Olhar dos Corações (Syr)**.
 - **Inúmeras outras inscrições/aperfeiçoamentos** surgiram na Falna após três dias. Como suas identidades exatas não foram reveladas em cena, **não inventar retrospectivamente nomes, efeitos específicos ou valores para cada monstro**; só revelar quando narrativa estabelecer.
 - **Hestia SABE** que Rain tem os três dons inatos e **assimilou Liaris Freese de Bell e Chama do Lar da própria Hestia**. Bell **não sabe**. Hestia disfarçou sua conversa sobre essas cópias enquanto Bell estava presente e retomou quando ele saiu; outras cópias permanecem secretas aos donos.
+
+## XVI. PRIORIDADE ABSOLUTA — novas regras de Devorar, queda de Apollo e 23º andar (14/11/2026)
+
+**Esta seção supera explicitamente a regra antiga “pessoas/divindades só por jogo” quanto à NOVA EXCEÇÃO descoberta.** A cópia não letal por jogo aceito (“Vamos jogar?”, condições, vitória) CONTINUA válida: alvo mantém poderes, Arcanum nunca é copiado. **Regra oculta adicional revelada nesta linha do tempo:** se Rain causar diretamente a morte de um mortal, **Devorar assimila automaticamente uma característica/habilidade do morto, mesmo sem aposta**; se sua ação causar o **retorno de uma divindade aos céus**, Devorar pode assimilar **um fragmento de sua natureza/atributo divino**, nunca Arcanum, sem extinguir a divindade. Era desconhecida por Rain até o primeiro caso, com Hyakinthos e Apollo. Não assumir que permite matar permanentemente deuses, roubar Arcanum, copiar tudo ou automatizar toda habilidade divina.
+
+**Hyakinthos Clio (capitão da Familia Apollo, morto):**
+- **Instinto do Duelista** — assimilação da experiência combativa e percepção de aberturas de um espadachim experiente; leitura de posturas, previsão de sequências e oportunidades de contra-ataque; aplicável também desarmado e sinérgica com Olhos de Movimento/Reflexos Predatórios. Não é transferência integral da Falna dele.
+
+**Apollo (enviado de volta aos céus por Hell Flames de Rain):**
+- **Coração do Sol Devorado** — fragmento da **natureza solar** de Apollo, não Arcanum. Estabelece uma segunda vertente ígnea, **fogo solar** concentrado e luminoso, além do fogo infernal dos Hellhounds; potência e eficiência de magia ígnea ampliadas; pode absorver energia solar para suas reservas mágicas.
+- **Eclipse Soberano** — habilidade singular despertada pela convergência de Devorar, natureza solar e Herança da Chama Infernal. Manifesta **chamas negras coroadas de dourado**; (1) **Domínio das Chamas**: absorção/conversão de manifestações ígneas inferiores à sua autoridade; (2) **Eclipse Arcano**: interfere em feitiços, barreiras e proteções mágicas e as torna vulneráveis, não cancelamento absoluto; (3) **Flagelo Divino**: potência particularmente ameaçadora contra manifestações de poder divino, **sem controlar Arcanum, superar automaticamente qualquer deus ou ignorar toda proteção**.
+- **Novo título/epíteto conquistado: “Flagelo do Sol”**, japonês **太陽の災厄 / Taiyō no Saiyaku**. “Senken” (Cão de Guerra) continua como alcunha anteriormente concedida no Denatus; não inventar nova votação oficial.
+
+**Falna atualizada POR HESTIA após o incidente Apollo: NÍVEL OFICIAL 4**, e **poder real de combate aproximadamente equivalente ao NÍVEL 6**, explicitamente definido pelo usuário. Esse nível efetivo não significa invencibilidade. Atributos acumulados do nível 3 **Força/Resistência/Destreza/Agilidade/Magia S999+** integram sua trajetória; no nível 4 a progressão da nova etapa começa novamente, sem números atuais estabelecidos. Hestia conhece as novas habilidades e nível, **ninguém mais recebeu sua lista de Falna**. A evolução não é multiplicador instantâneo 10×; Twin Monster continua acelerando o ganho.
+
+**23º andar, Grande Labirinto Arbóreo:** Rain abateu uma grande quantidade não numerada de monstros furtivos/de emboscada **com as mãos nuas** e assimilou PERMANENTEMENTE:
+1. **Visão do Predador Noturno** — visão em escuridão e detecção visual de movimentos ocultos.
+2. **Audição de Caça** — discriminação/localização de sons fracos e distantes, inclusive entre ruídos de combate.
+3. **Passo Sem Eco** — deslocamento, aterrissagem e mudança de direção menos ruidosos.
+4. **Instinto de Emboscada** — detecção intuitiva de ameaças e preparações de ataques ocultos.
+5. **Arranque Silencioso** — aceleração inicial explosiva com controle acústico/furtivo.
+6. **Camuflagem Instintiva** — uso automático de cobertura, sombras e irregularidades ambientais para ocultação.
+**Ganhos cumulativos adicionais:** atributos físicos de **Agilidade e Destreza**, precisão de **visão e audição** e **furtividade**; sinergias com capacidades existentes. Repetições reforçam essas aptidões sem inventar valores exatos da Falna, nomes adicionais ou contagem de monstros. Os aventureiros no 23º **entendem o japonês de Rain**, como explicitamente corrigido pelo usuário.
+
+**Último ponto narrativo:** Rain desistiu de contratar suporte fixa (“mula de carga”), apesar da candidata original Mira Voss surgir na Guilda. Declarou que voltaria à igreja para receber bronca por ter entrado escondido na Dungeon. Não inventar novos ataques, despedidas ou decisões do protagonista.
