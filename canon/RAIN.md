@@ -137,3 +137,19 @@ Rain veio de um mundo **tecnologicamente mais avançado**, onde uma divindade o 
 - **Lagarto monstruoso do 19º:** Rain moveu-se instantaneamente à frente da criatura e deu **um soco de precisão extraordinária**, abrindo rombo só no peito, com mínimo dano colateral. Monstro derrotado; Devorar → **Escamas de Guerra** (resistência dos tecidos/pele a cortes, arranhões e impacto; sinergia Carapaça Subdérmica + Ossatura de Guerra).
 - **Segunda leva:** Rain gritou **“Hahahaha, koi koi, estou faminto, me deixem Devorar seus atributos, seus merdinhas!”**; **girou e despejou uma torrente de fogo infernal circular**, abatendo **12 Almirajs** simultaneamente. Cinco passivas leporinas anteriores aprimoradas; cinco novas: **Passada de Caça, Curva Predatória, Arranque Instantâneo, Ritmo de Perseguição e Olhos de Movimento**. Os 2 outros abates dessa leva não tiveram ganho individual nomeado na cena; registrar aperfeiçoamento cumulativo de agilidade, sem inventar nomes.
 - **Inventário:** 3 cristais do 15º andar efetivamente coletados; **18 cristais presentes no chão** da clareira atual, ainda não recolhidos (5+1+12). Nada foi vendido. Outros monstros maiores se aproximam após a explosão ígnea.
+
+## Ficha atual — Falna após os três dias de caçada
+
+**Ritual em Orario realizado por Hestia** com gota de ichor no dorso de Rain; status lido e copiado:
+| Atributo | Valor narrado |
+|---|---|
+| **Nível oficial** | **3** |
+| **Força** | **S 999+** |
+| **Resistência** | **S 999+** |
+| **Destreza** | **S 999+** |
+| **Agilidade** | **S 999+ (o maior crescimento)** |
+| **Magia** | **S 999+** |
+
+**Todos ultrapassaram S999**. Nenhum valor exato acima de 999 foi fornecido e não deve ser inventado. Inúmeras habilidades e reforços apareceram na Falna; só nomear as aquisições efetivamente estabelecidas em PODERES.md. A capacidade real de Rain já era **topo do nível 5 antes dos três dias de farm** e foi amplificada ainda mais, principalmente em velocidade. Crescimento acelerado graças a **Twin Monster ~10×**, Devorar e outras habilidades, inclusive **Liaris Freese copiada de Bell e Chama do Lar copiada de Hestia**. **Hestia conhece essas duas cópias e o papel delas no desenvolvimento. Bell não sabe.** Deusas e aventureiros comuns não conhecem os demais detalhes.
+
+**Últimos acontecimentos:** Rain ficou **3 dias em frenesi**, caçando intensamente e assustando testemunhas de sua brutalidade. Contratou **19 aventureiros/suportes**, lote de pedras mágicas avaliado na Guilda em **~20.000.000 valis brutos**. Hestia estava aflita e o repreendeu. Rain fez dogeza, ofereceu-se para apanhar, fez duas cabeçadas destrutivas (Eina impediu a terceira), negociou a proibição de Dungeon de **3 anos até 1 semana**. Na igreja, Hestia entrou em êxtase ao atualizar a Falna, gritou e pulou. Rain sugeriu "conversar nus" por "399×" de compreensão (apenas piada). Depois fingiu/alegou estar profundamente ferido e pediu que **Hestia lhe desse banho**. Ela designou Bell para lavá-lo. **Cena atual: no banheiro, Bell escovando suas costas, Rain com cara de bunda; Bell pergunta onde estão os ferimentos, Hestia ri do outro lado da porta.** Rain e Hestia se amam, mas não são formalmente namorados.
