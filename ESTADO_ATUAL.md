@@ -1,41 +1,39 @@
 # Estado atual — Rain / DanMachi
 
-**Atualização de continuidade: 13/11/2026 — mais recente que os resumos anteriores.**
+**Última sincronização: 13/11/2026.** Esta é a referência prioritária para continuar a webnovel. Registros de “ponto atual” mais antigos nos arquivos são **históricos e não devem ser retomados**.
 
-## Ponto exato para retomar
+## Ponto de retomada EXATO — Capítulo 17
 
-**Taverna Senhora da Fertilidade, Orario, fim de tarde (~18h02), durante a realização do Denatus no alto de Babel.** Rain, humano de 18 anos, **nível 3**, está na taverna com **Syr, Ryuu, Chloe, Anya, Mia**. Acabou de ganhar de Anya uma competição de cerveja e copiar Instinto Felino por Devorar. Syr ofereceu um **jogo de três perguntas ou uma partida de cartas**. **Última fala/decisão EXATA do usuário/Rain: “Poker então.”** Próxima resposta é de Syr/NPCs, em reação à escolha do pôquer. **Não declarar um jogo de Devorar com Syr sem convite-gatilho, aceite de regras e vitória; não narrar cartas escolhidas, aposta, estratégia ou fala de Rain que o usuário não deu.**
+**Dungeon, Grande Floresta Labiríntica, 19º andar, ~11h38.** Rain, humano de 18 anos, **nível 3**, está **sozinho** e traz **três cristais** colhidos de dois Hellhounds e um Minotauro derrotados no 15º andar nesta expedição. Sua intenção recém-declarada pelo usuário é **farmar bastante neste 19º andar**, mas exigiu **salvar tudo no GitHub antes**. A última cena mostrou **cinco Almirajs** (coelhos monstruosos armados de pequenas machadinhas) e **um grande lagarto monstruoso**, ainda **vivos**, à frente de Rain na floresta. **Não há vitória/loot por esses seis monstros ainda**. Respeitar a agência de Rain: somente o usuário escolhe técnicas, falas, movimentos, o momento de encerrar farm ou mudar de andar. Pode avançar tempo e sumarizar uma caçada quando explicitamente autorizado por “vamos farmar bastante”, evitando escolhas de movimentos/técnicas que ele não deu.
 
-## Estado do mundo e Familia
+**Local de Bell/Lili:** estão em outra expedição conjunta em andares superiores, Bell como combatente e Lili como suporte. **Lili continua hóspede provisória, não membro oficial da Hestia Familia**, e Rain não a perdoou. Hestia permanece em Orario; a reforma da igreja/templo **está em andamento**, não concluída.
 
-- **Rain nível 3, Bell nível 2**, sem números atuais da Falna definidos. **Denatus concedeu oficialmente 戦犬/Senken (“Cão de Guerra”) a Rain e Little Rookie a Bell**, com ambos ausentes da assembleia. Hestia propôs “Flagelo dos inimigos de Hestia-sama”; recebeu **somente 2 votos, o dela e o de Hermes**. Rain/Bell ainda não receberam em cena anúncio direto.
-- **Templo de Hestia:** projeto grego desenvolvido com arquiteto anão Bram; preserva a lareira antiga, terá colunas, quartos e área de treinamento. **Obra começou há cerca de dez dias**: fundações reforçadas, algumas colunas iniciadas, andaimes. Custos finais não definidos; Hestia reduziu mas não encerrou seus turnos na barraca de Jagamarukun.
-- **Hestia e Rain** se beijam e dividem cama, com autonomia e castidade da deusa. Ela atualizou Falna de Rain após expedição proibida, soube que adquiriu aptidões de fogo e brigou com ele. Não sabe que ele curou queimaduras por Mirel nem que 10k foram oferecidos a Eina.
-- **Bell** está na **Torre de Babel com Lili** verificando preços de materiais para o templo. Hestia está no Denatus. Lili **não é membro da Familia Hestia**, apenas hóspede temporária; Rain recusou expressamente perdoá-la pela armadilha do andar 8 e roubo da Hestia Knife, disse que fingirá que ela não existe. Bell respeita sua decisão embora discorde.
-- Ais convidou Bell para conversar e treinar numa folga; encontro não foi detalhadamente narrado.
-- **Conhecimento secreto:** Hermes NÃO sabe que perdeu/copiou Astúcia do Trapaceiro; Anya NÃO sabe que Rain copiou Instinto Felino; Bete NÃO sabe de Solmani; Bell NÃO sabe que Liaris Freese foi copiada. Outros NPCs não diagnosticam Devorar automaticamente.
+## Nível e poderes confirmados
 
-## Dons e novas habilidades
+- Rain **nível 3**, Bell **nível 2**. Epítetos oficiais após Denatus: Rain **戦犬 Senken / Cão de Guerra**, Bell **Little Rookie**. Hestia sugeriu o epíteto desejado por Rain, **Flagelo dos Inimigos de Hestia-sama**, mas recebeu **apenas dois votos: Hestia e Hermes**.
+- **Dons iniciais sempre ativos:** **Devorar** (um ganho permanente específico por monstro derrotado; contra pessoas/deuses exige “Vamos jogar?”/variante, aceite e condição de vitória cumprida), **Twin Monster** (crescimento/aprendizado/Excelia ~10× sempre, não 10× força instantânea), **Blessed by All Gods** (sorte/favor constantes, não garantia de toda vitória; teve efeito marcante no pôquer).
+- **Cópias por jogos com pessoas/deuses:** **Liaris Freese (Bell)**, **Chama do Lar (Hestia)**, **Solmani (Bete)**, **Vigor físico (Gardo)**, **Astúcia do Trapaceiro (Hermes; percepção aumentada de blefes e estratégia social)**, **Instinto Felino (Anya; equilíbrio e controle corporal)**, **Olhar dos Corações (Syr; sensibilidade a emoções/desejos e contradições afetivas, não telepatia)**. Quem perdeu jogos **não perdeu a habilidade e desconhece a cópia**.
+- **Ganho ígneo anterior no 15º:** de três Hellhounds: **Herança da Chama Infernal (Afinidade Ígnea, Respiração da Chama sem encantamento, Resistência Ígnea)**, **Resistência Ígnea Aprimorada**, **Coração Ígneo**. Sofreu queimaduras e foi curado por Mirel (Dian Cecht). Hestia identificou habilidades na atualização de Falna.
+- **Ganhos da incursão ATUAL no 15º:** 2 Hellhounds → **Pele da Fornalha** (resistência ígnea reforçada) e **Pulmões Infernais** (sustentação/volume de chama); 1 Minotauro → **Musculatura do Rei Touro** (força brutal, torque, contração explosiva, pressão sustentada para grappling). Os **três cristais estão sendo carregados**, não vendidos nem avaliados.
+- **Outras aquisições anteriores:** Musculatura de Prata, Ossatura de Guerra, Carapaça Subdérmica, Passo Sombrio, Impulso Anfíbio, Reflexos Predatórios, Recuperação Instintiva, Olfato Aguçado, Resistência Tóxica e aprimoramentos cumulativos. Veja [canon/PODERES.md](canon/PODERES.md).
 
-**Três dons permanentes e sempre ativos:** Devorar (monstro derrotado → habilidade/adaptação permanente; pessoa/deus → “Vamos jogar?” + aceite + vitória → cópia permanente), Twin Monster (~10× aprendizagem, Excelia e adaptação contínuos, não 10× dano instantâneo), Blessed by All Gods (sorte/favor contínuos, não invulnerabilidade).
+## Eventos novos desde a última sincronização
 
-**Cópias de pessoas/deuses:** Liaris Freese (Bell), Chama do Lar (Hestia), Solmani (Bete), Vigor físico (Gardo), **Astúcia do Trapaceiro (Hermes: percebe blefes/contradições melhor, improvisação e estratégia social, não leitura de pensamentos ou infalibilidade)**, **Instinto Felino (Anya: equilíbrio, precisão em mudanças de direção e orientação em saltos/quedas)**.
+1. **Syr / pôquer**: desafio consentido de Rain, quadra de noves contra full house de Syr, triunfo graças também à sorte divina permanente. Compromisso de aposta reajustado e aceito: Rain receberia beijo se vencesse; ela receberia renda de Dungeon do próximo dia se vencesse. **Syr beijou Rain** e **Devorar copiou Olhar dos Corações** sem revelar o mecanismo.
+2. **Ryuu:** aceitou em princípio **treinar com Rain** numa manhã livre, sem data definida; mantém postura elfa reservada. Syr flertou depois do jogo. Anya já havia perdido corrida de cerveja e cedido Instinto Felino sem saber.
+3. **Denatus noticiado na taverna:** Rain expressou preferência por título “Flagelo dos Inimigos de Hestia-sama” em japonês. Soube que Hestia votara nesse nome (apenas Hestia e Hermes). Emocionou-se.
+4. **Porta destruída e presentes:** Rain deixou um saco de ouro para conta e gorjetas no bar e saiu em velocidade extrema, arrancando a porta; Mia disse que o dinheiro serviria primeiro ao conserto. Comprou **buquê, chocolates e óleo de massagem**; valores não fixados.
+5. **Noite de Hestia:** entregou presentes, agradeceu emocionado à deusa, realizou massagem de quatro estilos (Terra, Ar, Água e Fogo), depois recebeu massagem da deusa. Trocaram beijos e “Aishiteru”; dormiram abraçados. Humor de Rain sobre dormir nus não se converteu em intimidade sexual. Relação romântica e afetuosa.
+6. **Expedição separada:** Bell e Lili entraram juntos na Dungeon como lutador e suporte. Rain foi só, derrotou dois Hellhounds e um Minotauro no 15º (novas aquisições acima), recolheu cristais, atravessou 16º/17º sem encontros narrados, chegou a **Rivira (18º, zona segura)**. Neria, suporte independente, ofereceu acompanhá-lo; Rain **recusou**, lembrando da traição de Lili. Doran comerciante acompanhou. Rain foi ao **19º andar**, onde seis monstros apareceram à frente.
+7. **Último pedido:** “Atualiza tudo... Vamos farmar bastante ali entao... Antes, tudo que consegui deve ir para o Gith”. Primeiro salvar integralmente, depois continuar fazenda no 19º com usuário controlando Rain.
 
-**Novas aquisições de três Hellhounds no 15º andar:** (1) **Herança da Chama Infernal:** Afinidade Ígnea + **Respiração da Chama (fogo natural sem encantamento)** + Resistência Ígnea; (2) **Resistência Ígnea Aprimorada**, ainda não imunidade; (3) **Coração Ígneo**, eficiência e sustentação mágica de fogo. Rain sofreu queimaduras, curadas em seguida por **Mirel da Familia Dian Cecht**, que lançou **Sanatio**.
+## Itens e economia
 
-**Outras passivas importantes:** Passo Sombrio, Impulso Anfíbio, Musculatura de Prata, Ossatura de Guerra, Carapaça Subdérmica, Reflexos Predatórios, Recuperação Instintiva, Olfato Aguçado, Resistência Tóxica e aprimoramentos cumulativos. Detalhes completos em [PODERES.md](canon/PODERES.md).
+- **Dois trajes da Familia Hestia comprados por 64.000 valis na Alfaiataria Marten:** azul/branco, mobilidade total, tecidos reforçados, **lareira bordada grande nas costas e pequena no lado esquerdo do peito**. **Um entregue**, outro programado para retirada no dia seguinte, sem retirada confirmada. Rain está trajado com um dos uniformes.
+- Expedição anterior: **118.700 valis** de cristais, **15.000 valis** para cura (Mirel), **64.000 valis** por trajes; **+39.700 valis líquido só nessas operações**, não saldo total.
+- Outros montantes históricos: **500.000 valis** de indenização da Familia Ganesha; cristais da antiga horda avaliados em **3.000.000 valis**. **Não há saldo geral exato**. Obra do templo começou, mas custos parciais não foram numericamente fixados.
+- Jogo com Syr: Rain ganhou, **não deve a renda da próxima expedição**. Saco de ouro deixado na taverna e presentes sem quantias declaradas. **Três cristais da expedição atual ainda em posse de Rain**.
 
-## Uniformes e economia
+## Regras absolutas
 
-- **Alfaiataria Marten (mestre Marten e Elsa):** **DOIS** trajes de combate especiais por **64.000 valis PAGOS**, reforçados e flexíveis, cores **azul e branco** de Hestia, **grande símbolo bordado da lareira nas costas e pequeno no peito esquerdo**. Um foi entregue e vestido; segundo previsto para retirada no dia seguinte, ainda não mostrado. Roupas anteriores ficaram na alfaiataria após queimadas. Hestia viu uniforme e adorou.
-- Expedição: cristais vendidos à Guilda por **118.700 valis**, atendimento mágico Mirel **15.000 valis**, dois trajes **64.000 valis**; variação líquida dessas operações **+39.700 valis**; **saldo geral ainda desconhecido**. Tentativa de dar 10k a Eina para guardar segredo recusada sem gasto.
-- A reconstrução está acontecendo, mas nenhum gasto de obra foi numericamente fixado.
-- Histórico anterior: indenização Familia Ganesha **500.000 valis**; horda do oitavo andar cristais avaliados em **3.000.000 valis**; não confundir valores brutos com saldo atual.
-
-## Contexto recente indispensável
-
-Rain enfrentou três Hellhounds no andar 15, adquiriu fogo inato; foi curado e comprou trajes antes de voltar à igreja. Discutiu com Hestia e mostrou deferência por sua importância como deusa; manteve distanciamento de Lili. Obra iniciou e Denatus oficializou epítetos. Na taverna, Rain pediu cerveja humana a Ryuu e afirmou que o uniforme é homenagem a Hestia; venceu Anya em um jogo de cerveja proposto com gatilho Devorar e copiou Instinto Felino. Syr convidou Rain para um jogo de perguntas ou cartas; **Rain escolheu pôquer**, e Syr ainda vai responder.
-
-## Regra de narração
-
-**Usuário controla Rain EXCLUSIVAMENTE**, inclusive falas, pensamentos e movimentos. O narrador descreve mundo, NPCs, resultados e aquisição automática após gatilhos válidos. Incluir literalmente a fala/ação enviada pelo usuário, sem inventar outra. Manter personalidade canônica de DanMachi, humor e ritmo de webnovel. Não conceder vitórias a Rain automaticamente só por ter Astúcia do Trapaceiro; blefes ainda podem funcionar.
+**Rain pertence exclusivamente ao usuário.** Integrar integralmente cada fala, ação, intenção e decisão dada; sem criar pensamentos, movimentos, ataques, diálogos ou decisões de Rain. Hestia, Bell, Lili, Syr, Ryuu, NPCs e mundo agem com naturalidade e personalidade. Não revelar cópias secretas de Devorar aos NPCs sem justificativa. Continuar no **19º andar, antes da batalha contra cinco Almirajs e um lagarto**, salvo novo comando do usuário.
